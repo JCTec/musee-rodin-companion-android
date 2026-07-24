@@ -8,9 +8,10 @@ Personal Android clone of the iOS Musee Rodin Companion app.
 - Five top-level destinations: Places, Works, Paths, Search, Notes.
 - Compact screens use bottom navigation; expanded screens use a navigation rail.
 - Read-only museum content is bundled as JSON assets generated from `../shared-assets/content`.
+- Work images are bundled as local assets generated from `../shared-assets/artwork/work-images`.
 - Local user state is stored separately with Room: notes, favorites, seen works, route progress, and playback progress.
 - Read-aloud uses Android `TextToSpeech`; the app does not create, bundle, download, cache, or generate audio files.
-- Work imagery uses deterministic work-ID placeholders. Downloaded work images are intentionally not bundled in this phase.
+- Work imagery files are available under `app/src/main/assets/work-images`; deterministic work-ID placeholders remain the fallback behavior.
 - Citations are low-emphasis chips that open source URLs with `Intent.ACTION_VIEW`.
 - No login, sync, analytics, AI chat, embeddings, network AI calls, PDF-reader UX, Play Store scaffolding, or bundled audio.
 
@@ -60,6 +61,8 @@ Sync bundled app content from the workspace asset package:
 cd ..
 python3 tools/sync_app_assets.py --target android --write
 ```
+
+This copies JSON into `android/app/src/main/assets/content` and work images into `android/app/src/main/assets/work-images`.
 
 Sync both platform apps from the same package:
 
