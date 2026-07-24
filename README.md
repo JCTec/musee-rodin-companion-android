@@ -47,18 +47,10 @@ Observed on this machine:
 - Android SDK packages exist at `/opt/homebrew/share/android-commandlinetools`.
 - `~/Library/Android/sdk` is absent.
 - Standalone `gradle` is absent from `PATH`.
-- No existing `gradle-wrapper.jar` or local Gradle 9.6.1 distribution was found before setup.
 - No exact JDK 17 toolchain was detected; the build keeps Java 17 source/target compatibility and uses Android Studio's bundled Java.
 - `local.properties` points `sdk.dir` at the Homebrew Android SDK path.
 
-The wrapper metadata is present at `gradle/wrapper/gradle-wrapper.properties`, but `gradle-wrapper.jar` still needs to be generated or supplied. Once Gradle 9.6.1 is available, run:
-
-```sh
-cd android
-gradle wrapper --gradle-version 9.6.1 --distribution-type bin
-```
-
-Android Studio can also import the project and generate the wrapper jar.
+The Gradle wrapper metadata and wrapper jar are checked in, so CI and fresh clones can use `./gradlew` directly.
 
 ## Commands
 
@@ -105,6 +97,25 @@ tools/capture_screenshots.sh
 ```
 
 If no emulator is running, create or start an API 36 emulator using the installed Homebrew SDK tools before running connected tests.
+
+## GitHub Release APK
+
+The repository includes `.github/workflows/android-release.yml`.
+
+The workflow builds a signed release APK, uploads it as a workflow artifact, and creates or updates a GitHub Release with the APK attached. It runs automatically for tags matching `v*` and can also be triggered manually:
+
+```sh
+gh workflow run android-release.yml -f version=v0.1.0 -f prerelease=false
+```
+
+Required GitHub Secrets:
+
+- `ANDROID_KEYSTORE_BASE64`
+- `ANDROID_KEYSTORE_PASSWORD`
+- `ANDROID_KEY_ALIAS`
+- `ANDROID_KEY_PASSWORD`
+
+The local release keystore and password files live under `signing/`, which is intentionally ignored by Git. Losing the keystore means future APK updates cannot use the same signing identity.
 
 ## Test Coverage
 
