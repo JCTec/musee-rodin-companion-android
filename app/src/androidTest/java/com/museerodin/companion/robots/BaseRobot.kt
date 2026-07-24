@@ -6,9 +6,9 @@ import androidx.compose.ui.test.hasTestTag
 import androidx.compose.ui.test.hasText
 import androidx.compose.ui.test.junit4.AndroidComposeTestRule
 import androidx.compose.ui.test.onAllNodesWithTag
+import androidx.compose.ui.test.onAllNodesWithContentDescription
 import androidx.compose.ui.test.onAllNodesWithText
 import androidx.compose.ui.test.onFirst
-import androidx.compose.ui.test.onNodeWithContentDescription
 import androidx.compose.ui.test.onNodeWithTag
 import androidx.compose.ui.test.onNodeWithText
 import androidx.compose.ui.test.performClick
@@ -55,7 +55,14 @@ open class BaseRobot(protected val rule: RodinComposeRule) {
     }
 
     fun assertContentDescription(text: String): BaseRobot {
-        rule.onNodeWithContentDescription(text, substring = true).assertIsDisplayed()
+        rule.waitUntil(5_000) {
+            rule.onAllNodesWithContentDescription(text, substring = true, useUnmergedTree = true)
+                .fetchSemanticsNodes()
+                .isNotEmpty()
+        }
+        rule.onAllNodesWithContentDescription(text, substring = true, useUnmergedTree = true)
+            .onFirst()
+            .assertIsDisplayed()
         return this
     }
 

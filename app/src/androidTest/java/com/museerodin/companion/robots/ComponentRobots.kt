@@ -14,6 +14,18 @@ class WorkArtworkRobot(rule: RodinComposeRule) : BaseRobot(rule) {
         assertTagVisible("work.image.$id")
         return this
     }
+
+    fun openFullScreen(id: String): WorkArtworkRobot {
+        assertContentDescription("Open full screen artwork image")
+        tapTag("work.image.$id")
+        assertTagVisible("work.image.fullscreen.$id")
+        return this
+    }
+
+    fun closeFullScreen(id: String): WorkArtworkRobot {
+        tapTag("work.image.fullscreen.close.$id")
+        return this
+    }
 }
 
 class CitationChipRobot(rule: RodinComposeRule) : BaseRobot(rule) {

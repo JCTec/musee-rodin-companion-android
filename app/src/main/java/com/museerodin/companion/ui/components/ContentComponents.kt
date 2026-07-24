@@ -22,6 +22,7 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.CheckCircle
+import androidx.compose.material.icons.filled.Close
 import androidx.compose.material.icons.filled.ErrorOutline
 import androidx.compose.material.icons.filled.Favorite
 import androidx.compose.material.icons.filled.Image
@@ -45,7 +46,10 @@ import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.produceState
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -66,6 +70,8 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.window.Dialog
+import androidx.compose.ui.window.DialogProperties
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.museerodin.companion.content.AppLanguage
 import com.museerodin.companion.content.Citation
@@ -148,18 +154,27 @@ fun WorkArtwork(
     val color = colors[work.id.hashCode().absoluteValue % colors.size]
     val title = work.title.value(language)
     val image = rememberWorkImageBitmap("work-images/${work.id}.jpg")
+    var showFullScreen by remember { mutableStateOf(false) }
     Box(
         modifier = modifier
             .then(if (hero) Modifier.fillMaxWidth().height(260.dp) else Modifier.size(56.dp))
             .clip(RoundedCornerShape(8.dp))
             .background(color.copy(alpha = if (hero) 0.24f else 0.18f))
             .testTag("work.image.${work.id}")
+            .then(
+                if (image != null) {
+                    Modifier.clickable { showFullScreen = true }
+                } else {
+                    Modifier
+                },
+            )
             .semantics {
                 contentDescription = if (image != null) {
-                    "Artwork image for $title"
+                    "Open full screen artwork image for $title"
                 } else {
                     "Artwork placeholder for $title. Image slot ${work.id}"
                 }
+                if (image != null) role = Role.Button
             },
         contentAlignment = Alignment.Center,
     ) {
@@ -185,6 +200,14 @@ fun WorkArtwork(
             }
         }
     }
+    if (image != null && showFullScreen) {
+        FullScreenArtworkDialog(
+            image = image,
+            title = title,
+            workID = work.id,
+            onDismiss = { showFullScreen = false },
+        )
+    }
 }
 
 @Composable
@@ -200,6 +223,50 @@ private fun rememberWorkImageBitmap(assetPath: String): ImageBitmap? {
         }
     }
     return image
+}
+
+@Composable
+private fun FullScreenArtworkDialog(
+    image: ImageBitmap,
+    title: String,
+    workID: String,
+    onDismiss: () -> Unit,
+) {
+    Dialog(
+        onDismissRequest = onDismiss,
+        properties = DialogProperties(
+            usePlatformDefaultWidth = false,
+            decorFitsSystemWindows = false,
+        ),
+    ) {
+        Box(
+            modifier = Modifier
+                .fillMaxSize()
+                .background(Color.Black)
+                .testTag("work.image.fullscreen.$workID")
+                .semantics { contentDescription = "Full screen artwork image for $title" },
+        ) {
+            Image(
+                bitmap = image,
+                contentDescription = null,
+                modifier = Modifier
+                    .fillMaxSize()
+                    .padding(12.dp),
+                contentScale = ContentScale.Fit,
+            )
+            IconButton(
+                onClick = onDismiss,
+                modifier = Modifier
+                    .align(Alignment.TopEnd)
+                    .padding(16.dp)
+                    .size(48.dp)
+                    .testTag("work.image.fullscreen.close.$workID")
+                    .semantics { contentDescription = "Close full screen artwork image" },
+            ) {
+                Icon(Icons.Filled.Close, contentDescription = null, tint = Color.White)
+            }
+        }
+    }
 }
 
 @Composable

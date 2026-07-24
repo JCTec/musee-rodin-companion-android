@@ -54,6 +54,9 @@ class MuseeRodinCompanionUiTest {
             .favoriteAndMarkSeen()
 
         WorkArtworkRobot(rule).assertVisible("work-le-penseur")
+        WorkArtworkRobot(rule)
+            .openFullScreen("work-le-penseur")
+            .closeFullScreen("work-le-penseur")
         ReadAloudButtonRobot(rule).assertVisible()
         ConfidenceChipRobot(rule).assertVisible("Verified")
         MetadataGridRobot(rule).assertVisible()
