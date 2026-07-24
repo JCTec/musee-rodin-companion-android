@@ -1,0 +1,1049 @@
+[
+  {
+    "id": "work-le-penseur",
+    "title": {
+      "en": "The Thinker",
+      "fr": "Le Penseur",
+      "es": "El pensador",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1903",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01295",
+    "locationStatus": {
+      "en": "Sculpture Garden",
+      "fr": "Jardin de sculptures",
+      "es": "Jardin de esculturas",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A monumental bronze figure from the world of The Gates of Hell, now one of Rodin's most recognizable images.",
+      "fr": "Une figure monumentale en bronze issue de l'univers de La Porte de l'Enfer, devenue l'une des images les plus reconnaissables de Rodin.",
+      "es": "Una figura monumental en bronce nacida del universo de La puerta del Infierno y hoy una de las imagenes mas reconocibles de Rodin.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The museum record identifies an Alexis Rudier cast from 1904 and notes the work's origin as a figure for The Gates of Hell.",
+      "fr": "La notice du musee indique une fonte Alexis Rudier de 1904 et rappelle l'origine de l'oeuvre comme figure pour La Porte de l'Enfer.",
+      "es": "La ficha del museo indica una fundicion de Alexis Rudier de 1904 y recuerda su origen como figura para La puerta del Infierno.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "garden",
+      "gates-of-hell",
+      "highlight"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-le-penseur",
+        "sourceID": "S16",
+        "label": "S16",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/penseur",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-garden",
+      "topic-gates-of-hell",
+      "topic-bronze-editions"
+    ],
+    "placeholderSymbol": "figure.stand"
+  },
+  {
+    "id": "work-porte-enfer",
+    "title": {
+      "en": "The Gates of Hell",
+      "fr": "La Porte de l'Enfer",
+      "es": "La puerta del Infierno",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1880-c.1890",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01304",
+    "locationStatus": {
+      "en": "Sculpture Garden",
+      "fr": "Jardin de sculptures",
+      "es": "Jardin de esculturas",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Rodin's vast portal became a matrix for more than two hundred figures and groups, including later independent works.",
+      "fr": "Le vaste portail de Rodin est devenu une matrice pour plus de deux cents figures et groupes, dont plusieurs oeuvres autonomes.",
+      "es": "El gran portal de Rodin se convirtio en matriz de mas de doscientas figuras y grupos, incluidas obras autonomas posteriores.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The bronze in the museum collection was cast by Alexis Rudier in 1928, after Rodin's long development of the model.",
+      "fr": "Le bronze conserve par le musee a ete fondu par Alexis Rudier en 1928, apres la longue elaboration du modele par Rodin.",
+      "es": "El bronce conservado por el museo fue fundido por Alexis Rudier en 1928, tras el largo desarrollo del modelo por Rodin.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "garden",
+      "gates-of-hell",
+      "highlight"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-porte-enfer",
+        "sourceID": "S17",
+        "label": "S17",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/porte-de-lenfer",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-garden",
+      "topic-gates-of-hell",
+      "topic-bronze-editions"
+    ],
+    "placeholderSymbol": "door.left.hand.open"
+  },
+  {
+    "id": "work-porte-enfer-meudon",
+    "title": {
+      "en": "The Gates of Hell, Meudon",
+      "fr": "La Porte de l'Enfer, Meudon",
+      "es": "La puerta del Infierno, Meudon",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1900",
+    "material": {
+      "en": "Plaster",
+      "fr": "Platre",
+      "es": "Yeso",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.02000",
+    "locationStatus": {
+      "en": "Musee Rodin - Meudon plaster gallery",
+      "fr": "Musee Rodin - Meudon, galerie des platres",
+      "es": "Museo Rodin - Meudon, galeria de yesos",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "The Meudon plaster preserves a key state of Rodin's portal in the studio setting most closely tied to his working process.",
+      "fr": "Le platre de Meudon conserve un etat essentiel du portail dans le cadre d'atelier le plus lie au processus de Rodin.",
+      "es": "El yeso de Meudon conserva un estado clave del portal en el entorno de taller mas ligado al proceso de Rodin.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The record links this plaster to the 1900 Alma exhibition state and the Meudon display history.",
+      "fr": "La notice lie ce platre a l'etat de l'exposition de l'Alma en 1900 et a l'histoire de la presentation a Meudon.",
+      "es": "La ficha relaciona este yeso con el estado de la exposicion del Alma de 1900 y con la historia de exhibicion en Meudon.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "plaster",
+      "meudon",
+      "gates-of-hell"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-porte-enfer-meudon",
+        "sourceID": "S31",
+        "label": "S31",
+        "page": null,
+        "url": "https://www.meudon.musee-rodin.fr/musee/collections/oeuvres/porte-de-lenfer-meudon",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-meudon",
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "shippingbox"
+  },
+  {
+    "id": "work-baiser",
+    "title": {
+      "en": "The Kiss",
+      "fr": "Le Baiser",
+      "es": "El beso",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "c.1882 concept; carved 1888-1898",
+    "material": {
+      "en": "Marble",
+      "fr": "Marbre",
+      "es": "Marmol",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.1002 / Lux.132",
+    "locationStatus": {
+      "en": "Permanent collections, ground floor, room 5",
+      "fr": "Collections permanentes, rez-de-chaussee, salle 5",
+      "es": "Colecciones permanentes, planta baja, sala 5",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A marble group first conceived from The Gates of Hell, later separated into one of Rodin's most famous images of embrace.",
+      "fr": "Un groupe en marbre d'abord concu depuis La Porte de l'Enfer, puis detache comme l'une des images d'etreinte les plus celebres de Rodin.",
+      "es": "Un grupo de marmol concebido inicialmente desde La puerta del Infierno y luego separado como una de las imagenes de abrazo mas celebres de Rodin.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The French state commissioned the marble in 1888; it entered the Musee du Luxembourg in 1901 and transferred to the Musee Rodin in 1919.",
+      "fr": "L'Etat francais commanda le marbre en 1888; il entra au Musee du Luxembourg en 1901 puis fut transfere au Musee Rodin en 1919.",
+      "es": "El Estado frances encargo el marmol en 1888; ingreso en el Museo de Luxemburgo en 1901 y fue trasladado al Museo Rodin en 1919.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "marble",
+      "hotel-biron",
+      "gates-of-hell",
+      "highlight"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-baiser",
+        "sourceID": "S15",
+        "label": "S15",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/baiser",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-hotel-biron",
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "heart"
+  },
+  {
+    "id": "work-age-airain",
+    "title": {
+      "en": "The Age of Bronze",
+      "fr": "L'Age d'Airain",
+      "es": "La edad de bronce",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1877; Rudier cast before 1916",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.986",
+    "locationStatus": {
+      "en": "Permanent collections, ground floor, room 3",
+      "fr": "Collections permanentes, rez-de-chaussee, salle 3",
+      "es": "Colecciones permanentes, planta baja, sala 3",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Rodin's first major work brought him public attention through both admiration and controversy over its realism.",
+      "fr": "La premiere oeuvre majeure de Rodin attira l'attention publique par l'admiration comme par la controverse autour de son realisme.",
+      "es": "La primera gran obra de Rodin atrajo atencion publica tanto por admiracion como por controversia sobre su realismo.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The life-casting accusation surrounding the work helped define Rodin's early reputation and preceded the 1880 Gates commission.",
+      "fr": "L'accusation de moulage sur nature contribua a definir la reputation initiale de Rodin et preceda la commande de la Porte en 1880.",
+      "es": "La acusacion de moldeado del natural contribuyo a definir la reputacion inicial de Rodin y precedio el encargo de la Puerta en 1880.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "hotel-biron",
+      "early-work"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-age-airain",
+        "sourceID": "S19",
+        "label": "S19",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lage-dairain",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-hotel-biron",
+      "topic-bronze-editions"
+    ],
+    "placeholderSymbol": "figure"
+  },
+  {
+    "id": "work-balzac",
+    "title": {
+      "en": "Monument to Balzac",
+      "fr": "Le Monument a Balzac",
+      "es": "Monumento a Balzac",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1898",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01296",
+    "locationStatus": {
+      "en": "Sculpture Garden",
+      "fr": "Jardin de sculptures",
+      "es": "Jardin de esculturas",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Rodin transformed a literary commission into a radical monument built around presence, mass, and the force of the robe.",
+      "fr": "Rodin transforma une commande litteraire en monument radical fonde sur la presence, la masse et la force de la robe.",
+      "es": "Rodin transformo un encargo literario en un monumento radical basado en presencia, masa y la fuerza de la bata.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The bronze in the museum garden was cast by Alexis Rudier in 1935 for the Musee Rodin after the original commission had been rejected.",
+      "fr": "Le bronze du jardin fut fondu par Alexis Rudier en 1935 pour le Musee Rodin apres le rejet de la commande initiale.",
+      "es": "El bronce del jardin fue fundido por Alexis Rudier en 1935 para el Museo Rodin despues del rechazo del encargo inicial.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "garden",
+      "balzac",
+      "highlight"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-balzac",
+        "sourceID": "S18",
+        "label": "S18",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-balzac",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-garden",
+      "topic-balzac",
+      "topic-bronze-editions"
+    ],
+    "placeholderSymbol": "book.closed"
+  },
+  {
+    "id": "work-balzac-meudon",
+    "title": {
+      "en": "Monument to Balzac, Meudon",
+      "fr": "Monument a Balzac, Meudon",
+      "es": "Monumento a Balzac, Meudon",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1898",
+    "material": {
+      "en": "Patinated plaster in three pieces",
+      "fr": "Platre patine en trois pieces",
+      "es": "Yeso patinado en tres piezas",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.3151",
+    "locationStatus": {
+      "en": "Musee Rodin - Meudon plaster gallery",
+      "fr": "Musee Rodin - Meudon, galerie des platres",
+      "es": "Museo Rodin - Meudon, galeria de yesos",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "The Meudon plaster reveals the monument as a studio object and casting source, not only as a finished public bronze.",
+      "fr": "Le platre de Meudon montre le monument comme objet d'atelier et source de fonte, non seulement comme bronze public acheve.",
+      "es": "El yeso de Meudon muestra el monumento como objeto de taller y fuente de fundicion, no solo como bronce publico terminado.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The record identifies this patinated plaster as a form used for bronze casting.",
+      "fr": "La notice identifie ce platre patine comme une forme utilisee pour la fonte en bronze.",
+      "es": "La ficha identifica este yeso patinado como forma utilizada para la fundicion en bronce.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "plaster",
+      "meudon",
+      "balzac"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-balzac-meudon",
+        "sourceID": "S32",
+        "label": "S32",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-balzac-meudon",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-meudon",
+      "topic-balzac"
+    ],
+    "placeholderSymbol": "shippingbox"
+  },
+  {
+    "id": "work-bourgeois-calais",
+    "title": {
+      "en": "Monument to the Burghers of Calais",
+      "fr": "Monument aux Bourgeois de Calais",
+      "es": "Monumento a los burgueses de Calais",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1889",
+    "material": {
+      "en": "Plaster",
+      "fr": "Platre",
+      "es": "Yeso",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.153",
+    "locationStatus": {
+      "en": "Musee Rodin - Meudon plaster gallery",
+      "fr": "Musee Rodin - Meudon, galerie des platres",
+      "es": "Museo Rodin - Meudon, galeria de yesos",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "The Meudon plaster preserves the monument's dramatic group structure before and beyond its final bronze installation at Calais.",
+      "fr": "Le platre de Meudon conserve la structure dramatique du groupe avant et au-dela de son installation finale en bronze a Calais.",
+      "es": "El yeso de Meudon conserva la estructura dramatica del grupo antes y mas alla de su instalacion final en bronce en Calais.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The final bronze was installed at Calais on June 3, 1895, while the Meudon plaster remains central to studying the monument's making.",
+      "fr": "Le bronze final fut installe a Calais le 3 juin 1895, tandis que le platre de Meudon reste central pour etudier la creation du monument.",
+      "es": "El bronce final fue instalado en Calais el 3 de junio de 1895, mientras el yeso de Meudon sigue siendo central para estudiar su creacion.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "plaster",
+      "meudon",
+      "monument"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-bourgeois-calais",
+        "sourceID": "S33",
+        "label": "S33",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-aux-bourgeois-de-calais-meudon",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-meudon"
+    ],
+    "placeholderSymbol": "person.3"
+  },
+  {
+    "id": "work-robe-balzac",
+    "title": {
+      "en": "Study of a Dressing Gown for Balzac",
+      "fr": "Etude de robe de chambre pour Balzac",
+      "es": "Estudio de bata para Balzac",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1897",
+    "material": {
+      "en": "Plaster from lost-wax mold process",
+      "fr": "Platre issu du procede de moulage a cire perdue",
+      "es": "Yeso del proceso de molde a la cera perdida",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.00146",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 9",
+      "fr": "Collections permanentes, premier etage, salle 9",
+      "es": "Colecciones permanentes, primer piso, sala 9",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "This study turns Balzac's robe into evidence of Rodin's physical, experimental process for the monument.",
+      "fr": "Cette etude transforme la robe de Balzac en preuve du processus physique et experimental de Rodin pour le monument.",
+      "es": "Este estudio convierte la bata de Balzac en evidencia del proceso fisico y experimental de Rodin para el monumento.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The object was formed from an actual robe study and belongs to the studio process around Balzac's drapery.",
+      "fr": "L'objet fut forme a partir d'une etude de robe reelle et appartient au processus d'atelier autour du drape de Balzac.",
+      "es": "El objeto se formo a partir de un estudio de una bata real y pertenece al proceso de taller sobre el drapeado de Balzac.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "plaster",
+      "balzac",
+      "process"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-robe-balzac",
+        "sourceID": "S34",
+        "label": "S34",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/etude-de-robe-de-chambre-pour-balzac",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-balzac",
+      "topic-studio-process"
+    ],
+    "placeholderSymbol": "tshirt"
+  },
+  {
+    "id": "work-abattis",
+    "title": {
+      "en": "Abattis",
+      "fr": "Abattis",
+      "es": "Abattis",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "c.1890-1900",
+    "material": {
+      "en": "Plaster",
+      "fr": "Platre",
+      "es": "Yeso",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.4650 to S.4654",
+    "locationStatus": {
+      "en": "Musee Rodin - Meudon plaster gallery",
+      "fr": "Musee Rodin - Meudon, galerie des platres",
+      "es": "Museo Rodin - Meudon, galeria de yesos",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "These body fragments show Rodin using plaster pieces as a repertory for assembling and recomposing figures.",
+      "fr": "Ces fragments de corps montrent Rodin utilisant des morceaux de platre comme repertoire pour assembler et recomposer des figures.",
+      "es": "Estos fragmentos corporales muestran a Rodin usando piezas de yeso como repertorio para ensamblar y recomponer figuras.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The official page is especially useful for understanding Rodin's fragmentary studio practice.",
+      "fr": "La page officielle est particulierement utile pour comprendre la pratique fragmentaire de l'atelier de Rodin.",
+      "es": "La pagina oficial es especialmente util para comprender la practica fragmentaria del taller de Rodin.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "plaster",
+      "meudon",
+      "fragments",
+      "process"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-abattis",
+        "sourceID": "S20",
+        "label": "S20",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/abattis",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-meudon",
+      "topic-studio-process"
+    ],
+    "placeholderSymbol": "hand.raised"
+  },
+  {
+    "id": "work-etude-baiser",
+    "title": {
+      "en": "Study for The Kiss",
+      "fr": "Etude pour le baiser",
+      "es": "Estudio para El beso",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1880-1889",
+    "material": {
+      "en": "Graphite, ink, and gouache on cut paper",
+      "fr": "Graphite, encre et gouache sur papier decoupe",
+      "es": "Grafito, tinta y gouache sobre papel recortado",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "D.9533",
+    "locationStatus": {
+      "en": "Status not specified on source page",
+      "fr": "Statut non precise sur la page source",
+      "es": "Estado no especificado en la pagina fuente",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A drawing connected to The Kiss that shows Rodin working across line, cut paper, and collage.",
+      "fr": "Un dessin lie au Baiser qui montre Rodin travaillant entre ligne, papier decoupe et collage.",
+      "es": "Un dibujo ligado a El beso que muestra a Rodin trabajando entre linea, papel recortado y collage.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The official record notes preemption in a public sale in March 2018 and purchase in 2020.",
+      "fr": "La notice officielle mentionne une preemption en vente publique en mars 2018 et un achat en 2020.",
+      "es": "La ficha oficial menciona una preempcion en venta publica en marzo de 2018 y una compra en 2020.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "drawing",
+      "kiss",
+      "acquisition"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-etude-baiser",
+        "sourceID": "S23",
+        "label": "S23",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/etude-pour-baiser",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-drawings",
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "pencil.and.scribble"
+  },
+  {
+    "id": "work-portrait-rodin",
+    "title": {
+      "en": "Portrait of Rodin",
+      "fr": "Portrait de Rodin",
+      "es": "Retrato de Rodin",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "1886-1888",
+    "material": {
+      "en": "Bronze, sand cast by Gruet in 1892",
+      "fr": "Bronze, fonte au sable par Gruet en 1892",
+      "es": "Bronce, fundicion en arena por Gruet en 1892",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.1021",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 16",
+      "fr": "Collections permanentes, premier etage, salle 16",
+      "es": "Colecciones permanentes, primer piso, sala 16",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Claudel's portrait gives Rodin a concentrated, sculptural presence and anchors her place inside the museum's permanent display.",
+      "fr": "Le portrait de Claudel donne a Rodin une presence concentree et sculpturale et ancre sa place dans le parcours permanent du musee.",
+      "es": "El retrato de Claudel da a Rodin una presencia concentrada y escultorica y afirma su lugar en el recorrido permanente del museo.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The work was exhibited in 1892 and later appeared in Rodin exhibitions, according to the museum record.",
+      "fr": "L'oeuvre fut exposee en 1892 puis presentee dans des expositions Rodin, selon la notice du musee.",
+      "es": "La obra fue expuesta en 1892 y mas tarde aparecio en exposiciones de Rodin, segun la ficha del museo.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "bronze",
+      "hotel-biron",
+      "portrait"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-portrait-rodin",
+        "sourceID": "S24",
+        "label": "S24",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/portrait-de-rodin",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel",
+      "topic-hotel-biron"
+    ],
+    "placeholderSymbol": "person.crop.rectangle"
+  },
+  {
+    "id": "work-valse",
+    "title": {
+      "en": "The Waltz",
+      "fr": "La Valse ou les Valseurs",
+      "es": "El vals",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "c.1893",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01013",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 16",
+      "fr": "Collections permanentes, premier etage, salle 16",
+      "es": "Colecciones permanentes, primer piso, sala 16",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A compact bronze group where Claudel turns movement, balance, and intimacy into a turning sculptural form.",
+      "fr": "Un groupe compact en bronze ou Claudel transforme mouvement, equilibre et intimite en forme sculpturale tournante.",
+      "es": "Un grupo compacto en bronce donde Claudel convierte movimiento, equilibrio e intimidad en una forma escultorica giratoria.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The official record connects the work with movement studies and Salon presentation.",
+      "fr": "La notice officielle relie l'oeuvre aux recherches sur le mouvement et a sa presentation au Salon.",
+      "es": "La ficha oficial relaciona la obra con estudios de movimiento y su presentacion en el Salon.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "bronze",
+      "hotel-biron",
+      "movement"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-valse",
+        "sourceID": "S25",
+        "label": "S25",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/valse-ou-valseurs",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel"
+    ],
+    "placeholderSymbol": "figure.dance"
+  },
+  {
+    "id": "work-causeuses",
+    "title": {
+      "en": "The Gossips",
+      "fr": "Les Causeuses ou Les Bavardes",
+      "es": "Las conversadoras",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "1897",
+    "material": {
+      "en": "Marble-onyx and bronze",
+      "fr": "Marbre-onyx et bronze",
+      "es": "Marmol onice y bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.1006",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 16",
+      "fr": "Collections permanentes, premier etage, salle 16",
+      "es": "Colecciones permanentes, primer piso, sala 16",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A small, intense group where Claudel uses precious materials and close bodily arrangement to stage conversation.",
+      "fr": "Un petit groupe intense ou Claudel utilise des materiaux precieux et une disposition serree des corps pour mettre en scene la conversation.",
+      "es": "Un grupo pequeno e intenso donde Claudel usa materiales preciosos y una disposicion corporal cercana para escenificar la conversacion.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The museum record highlights the work's originality and its precious, japonisant effect.",
+      "fr": "La notice du musee souligne l'originalite de l'oeuvre et son effet precieux, japonisant.",
+      "es": "La ficha del museo subraya la originalidad de la obra y su efecto precioso, japonizante.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "marble",
+      "bronze",
+      "hotel-biron"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-causeuses",
+        "sourceID": "S26",
+        "label": "S26",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/causeuses-ou-bavardes",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel"
+    ],
+    "placeholderSymbol": "person.2.wave.2"
+  },
+  {
+    "id": "work-clotho",
+    "title": {
+      "en": "Clotho",
+      "fr": "Clotho",
+      "es": "Cloto",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "1893",
+    "material": {
+      "en": "Plaster",
+      "fr": "Platre",
+      "es": "Yeso",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01379",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 16",
+      "fr": "Collections permanentes, premier etage, salle 16",
+      "es": "Colecciones permanentes, primer piso, sala 16",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Claudel's mythological figure confronts age, fate, and the body with a severity distinct from her more fluid groups.",
+      "fr": "La figure mythologique de Claudel affronte l'age, le destin et le corps avec une severite distincte de ses groupes plus fluides.",
+      "es": "La figura mitologica de Claudel enfrenta edad, destino y cuerpo con una severidad distinta de sus grupos mas fluidos.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The work dialogues with Rodin and Desbois around themes of age, fate, and the body.",
+      "fr": "L'oeuvre dialogue avec Rodin et Desbois autour de l'age, du destin et du corps.",
+      "es": "La obra dialoga con Rodin y Desbois sobre edad, destino y cuerpo.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "plaster",
+      "hotel-biron",
+      "mythology"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-clotho",
+        "sourceID": "S27",
+        "label": "S27",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/clotho",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel"
+    ],
+    "placeholderSymbol": "clock"
+  },
+  {
+    "id": "work-letter-rodin-claudel",
+    "title": {
+      "en": "Letter from Auguste Rodin to Camille Claudel",
+      "fr": "Lettre d'Auguste Rodin a Camille Claudel",
+      "es": "Carta de Auguste Rodin a Camille Claudel",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "c.1886 - Donation 1916",
+    "material": {
+      "en": "Ink on paper",
+      "fr": "Encre sur papier",
+      "es": "Tinta sobre papel",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "L.01451",
+    "locationStatus": {
+      "en": "Status not specified on source page",
+      "fr": "Statut non precise sur la page source",
+      "es": "Estado no especificado en la pagina fuente",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A rare letter from Rodin to Claudel, valuable as both collection object and relationship evidence.",
+      "fr": "Une rare lettre de Rodin a Claudel, precieuse comme objet de collection et comme trace de leur relation.",
+      "es": "Una rara carta de Rodin a Claudel, valiosa como objeto de coleccion y como evidencia de su relacion.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The record links the letter to the Rodin-Claudel relationship and the 1916 donation.",
+      "fr": "La notice relie la lettre a la relation Rodin-Claudel et a la donation de 1916.",
+      "es": "La ficha relaciona la carta con la relacion Rodin-Claudel y la donacion de 1916.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "claudel",
+      "letter",
+      "archives"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-letter-rodin-claudel",
+        "sourceID": "S28",
+        "label": "S28",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lettre-dauguste-rodin-camille-claudel",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel",
+      "topic-archives"
+    ],
+    "placeholderSymbol": "envelope"
+  },
+  {
+    "id": "work-letter-claudel-rodin",
+    "title": {
+      "en": "Letter from Camille Claudel to Auguste Rodin",
+      "fr": "Lettre de Camille Claudel a Auguste Rodin",
+      "es": "Carta de Camille Claudel a Auguste Rodin",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "Summer 1890 or 1891 - Donation 1916",
+    "material": {
+      "en": "Ink on paper",
+      "fr": "Encre sur papier",
+      "es": "Tinta sobre papel",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "Ms.00362",
+    "locationStatus": {
+      "en": "Status not specified on source page",
+      "fr": "Statut non precise sur la page source",
+      "es": "Estado no especificado en la pagina fuente",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A letter from Claudel to Rodin that connects personal history, archival evidence, and the museum's donation-based holdings.",
+      "fr": "Une lettre de Claudel a Rodin qui relie histoire personnelle, preuve archivistique et collections issues de la donation.",
+      "es": "Una carta de Claudel a Rodin que une historia personal, evidencia archivistica y colecciones procedentes de la donacion.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The record connects the letter with their time near Azay-le-Rideau and the donation history.",
+      "fr": "La notice relie la lettre a leur sejour pres d'Azay-le-Rideau et a l'histoire de la donation.",
+      "es": "La ficha relaciona la carta con su estancia cerca de Azay-le-Rideau y la historia de la donacion.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "rodin",
+      "letter",
+      "archives"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-letter-claudel-rodin",
+        "sourceID": "S29",
+        "label": "S29",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lettre-de-camille-claudel-auguste-rodin",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel",
+      "topic-archives"
+    ],
+    "placeholderSymbol": "envelope.open"
+  },
+  {
+    "id": "work-portrait-camille",
+    "title": {
+      "en": "Portrait of Camille Claudel",
+      "fr": "Portrait de Camille Claudel",
+      "es": "Retrato de Camille Claudel",
+      "reviewNeeded": false
+    },
+    "artist": "Cesar",
+    "dateText": "c.1884",
+    "material": {
+      "en": "Albumen print",
+      "fr": "Tirage albumine",
+      "es": "Copia a la albumina",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "Ph.00527",
+    "locationStatus": {
+      "en": "Status not specified on source page",
+      "fr": "Statut non precise sur la page source",
+      "es": "Estado no especificado en la pagina fuente",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A photograph from Rodin's personal collections that became a key image of the young Camille Claudel.",
+      "fr": "Une photographie issue des collections personnelles de Rodin, devenue une image cle de la jeune Camille Claudel.",
+      "es": "Una fotografia de las colecciones personales de Rodin que se convirtio en imagen clave de la joven Camille Claudel.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The work is useful for reading Claudel's presence in the collection across sculpture, archives, and photography.",
+      "fr": "L'oeuvre aide a lire la presence de Claudel dans la collection entre sculpture, archives et photographie.",
+      "es": "La obra ayuda a leer la presencia de Claudel en la coleccion entre escultura, archivos y fotografia.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "photograph",
+      "archives"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-portrait-camille",
+        "sourceID": "S30",
+        "label": "S30",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/portrait-de-camille-claudel",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel",
+      "topic-archives"
+    ],
+    "placeholderSymbol": "photo"
+  }
+]

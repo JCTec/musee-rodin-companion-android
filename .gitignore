@@ -1,0 +1,11 @@
+.DS_Store
+.gradle/
+.gradle-home/
+.idea/
+.kotlin/
+build/
+captures/
+local.properties
+local.properties.local
+app/build/
+artifacts/screenshots/

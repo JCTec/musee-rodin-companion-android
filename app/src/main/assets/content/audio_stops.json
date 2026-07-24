@@ -1,0 +1,1375 @@
+[
+  {
+    "id": "stop-hotel-biron",
+    "title": {
+      "en": "Hotel Biron",
+      "fr": "Hotel Biron",
+      "es": "Hotel Biron",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "The museum's Paris home",
+      "fr": "La maison parisienne du musee",
+      "es": "La casa parisina del museo",
+      "reviewNeeded": false
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-hotel-biron",
+    "routeIDs": [
+      "route-hotel-biron",
+      "route-visit-context"
+    ],
+    "order": 1,
+    "script": {
+      "en": "Begin with the building. The Hotel Biron is not a neutral container for Rodin's work. Rodin rented rooms here in 1908, later occupied the building, and the museum opened here in 1919. The site helps explain why the collection feels both public and intimate: it is a national museum shaped by an artist's donation and by the rooms where his work is staged.",
+      "fr": "Commencez par le batiment. L'Hotel Biron n'est pas un contenant neutre pour l'oeuvre de Rodin. Rodin y loua des pieces en 1908, occupa ensuite le batiment, et le musee y ouvrit en 1919. Le lieu explique pourquoi la collection parait a la fois publique et intime : c'est un musee national faconne par la donation d'un artiste et par les salles ou son oeuvre est presentee.",
+      "es": "Empieza por el edificio. El Hotel Biron no es un contenedor neutral para la obra de Rodin. Rodin alquilo habitaciones aqui en 1908, despues ocupo el edificio, y el museo abrio aqui en 1919. El lugar explica por que la coleccion se siente publica e intima a la vez: es un museo nacional formado por la donacion de un artista y por las salas donde se presenta su obra.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 75,
+    "citations": [
+      {
+        "id": "cite-stop-hotel-biron",
+        "sourceID": "S03",
+        "label": "S03",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/musee-rodin/hotel-biron",
+        "note": null
+      }
+    ],
+    "tags": [
+      "place",
+      "hotel-biron"
+    ]
+  },
+  {
+    "id": "stop-garden",
+    "title": {
+      "en": "Sculpture Garden",
+      "fr": "Jardin de sculptures",
+      "es": "Jardin de esculturas",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "An outdoor museum route",
+      "fr": "Un parcours museal en plein air",
+      "es": "Un recorrido museal al aire libre",
+      "reviewNeeded": false
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-garden",
+    "routeIDs": [
+      "route-garden",
+      "route-visit-context"
+    ],
+    "order": 1,
+    "script": {
+      "en": "The garden is part of the museum's argument. Rodin used outdoor display as a way to test sculpture against light, distance, and movement. Here, works such as The Thinker, The Gates of Hell, and Balzac are not simply placed outside. They become landmarks in a route through scale, weather, and changing attention.",
+      "fr": "Le jardin fait partie du propos du musee. Rodin utilisait la presentation en plein air pour eprouver la sculpture face a la lumiere, a la distance et au mouvement. Ici, Le Penseur, La Porte de l'Enfer ou Balzac ne sont pas simplement places dehors. Ils deviennent des reperes dans un parcours de l'echelle, du temps et de l'attention.",
+      "es": "El jardin forma parte del argumento del museo. Rodin usaba la exhibicion al aire libre para probar la escultura frente a la luz, la distancia y el movimiento. Aqui, El pensador, La puerta del Infierno y Balzac no estan simplemente afuera. Se vuelven hitos en un recorrido de escala, clima y atencion cambiante.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 70,
+    "citations": [
+      {
+        "id": "cite-stop-garden",
+        "sourceID": "S06",
+        "label": "S06",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/musee-rodin/jardin-de-sculptures",
+        "note": null
+      }
+    ],
+    "tags": [
+      "garden"
+    ]
+  },
+  {
+    "id": "stop-meudon",
+    "title": {
+      "en": "Meudon",
+      "fr": "Meudon",
+      "es": "Meudon",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "House, studio, plaster",
+      "fr": "Maison, atelier, platre",
+      "es": "Casa, taller, yeso",
+      "reviewNeeded": false
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-meudon",
+    "routeIDs": [
+      "route-meudon",
+      "route-visit-context"
+    ],
+    "order": 1,
+    "script": {
+      "en": "Meudon shifts the story from finished monument to working process. Its plaster gallery makes models, versions, and fragments feel central rather than secondary. This is where Rodin becomes easier to understand as someone who built sculpture through repetition, recomposition, and physical experiment.",
+      "fr": "Meudon deplace l'histoire du monument acheve vers le processus de travail. Sa galerie des platres rend les modeles, versions et fragments centraux plutot que secondaires. Rodin y devient plus lisible comme un artiste qui construit la sculpture par repetition, recomposition et experimentation physique.",
+      "es": "Meudon desplaza la historia del monumento terminado hacia el proceso de trabajo. Su galeria de yesos hace que modelos, versiones y fragmentos parezcan centrales, no secundarios. Aqui Rodin se entiende mejor como alguien que construia escultura por repeticion, recomposicion y experimento fisico.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 72,
+    "citations": [
+      {
+        "id": "cite-stop-meudon",
+        "sourceID": "S22",
+        "label": "S22",
+        "page": null,
+        "url": "https://www.meudon.musee-rodin.fr/preparer-sa-visite-meudon/informations-pratiques-meudon",
+        "note": null
+      }
+    ],
+    "tags": [
+      "meudon",
+      "plaster"
+    ]
+  },
+  {
+    "id": "stop-camille-claudel",
+    "title": {
+      "en": "Camille Claudel",
+      "fr": "Camille Claudel",
+      "es": "Camille Claudel",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "A distinct artistic voice",
+      "fr": "Une voix artistique distincte",
+      "es": "Una voz artistica propia",
+      "reviewNeeded": false
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-camille-claudel",
+    "routeIDs": [
+      "route-highlights",
+      "route-camille-claudel"
+    ],
+    "order": 1,
+    "script": {
+      "en": "In this app, Camille Claudel is not treated only as a figure in Rodin's biography. Her works have their own pressure: movement, intimacy, material contrast, and myth. Read the room through her decisions as an artist, then let the letters and photographs widen the story without reducing the sculpture to biography.",
+      "fr": "Dans cette app, Camille Claudel n'est pas presentee seulement comme une figure de la biographie de Rodin. Ses oeuvres ont leur propre intensite : mouvement, intimite, contraste des materiaux et mythe. Lisez la salle par ses choix d'artiste, puis laissez les lettres et photographies elargir l'histoire sans reduire la sculpture a la biographie.",
+      "es": "En esta app, Camille Claudel no se trata solo como figura en la biografia de Rodin. Sus obras tienen su propia presion: movimiento, intimidad, contraste material y mito. Lee la sala a traves de sus decisiones como artista, y luego deja que cartas y fotografias amplien la historia sin reducir la escultura a biografia.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 78,
+    "citations": [
+      {
+        "id": "cite-stop-claudel-topic",
+        "sourceID": "S24",
+        "label": "S24",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/portrait-de-rodin",
+        "note": null
+      }
+    ],
+    "tags": [
+      "claudel"
+    ]
+  },
+  {
+    "id": "stop-drawings",
+    "title": {
+      "en": "Drawings",
+      "fr": "Dessins",
+      "es": "Dibujos",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Paper as experiment",
+      "fr": "Le papier comme experience",
+      "es": "El papel como experimento",
+      "reviewNeeded": false
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-drawings",
+    "routeIDs": [
+      "route-drawings",
+      "route-researcher"
+    ],
+    "order": 1,
+    "script": {
+      "en": "Rodin's drawings are not footnotes to sculpture. They show another pace of looking and making: line, cut paper, wash, and movement held on a surface. The drawing route begins from that idea, then turns to a Study for The Kiss as one concrete record of invention on paper.",
+      "fr": "Les dessins de Rodin ne sont pas des notes de bas de page de la sculpture. Ils montrent un autre rythme du regard et de la creation : ligne, papier decoupe, lavis et mouvement retenu sur une surface. Le parcours des dessins part de cette idee, puis rejoint une Etude pour le baiser comme trace concrete d'invention sur papier.",
+      "es": "Los dibujos de Rodin no son notas al pie de la escultura. Muestran otro ritmo de mirar y hacer: linea, papel recortado, aguada y movimiento sostenido en una superficie. La ruta de dibujos parte de esa idea y llega a Estudio para El beso como registro concreto de invencion en papel.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 68,
+    "citations": [
+      {
+        "id": "cite-stop-drawings",
+        "sourceID": "P09",
+        "label": "P09",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2025-12/mr_rodin-dessins-libres_dp_vf_0.pdf",
+        "note": null
+      }
+    ],
+    "tags": [
+      "drawings"
+    ]
+  },
+  {
+    "id": "stop-bronze-editions",
+    "title": {
+      "en": "Bronze Editions",
+      "fr": "Editions de bronze",
+      "es": "Ediciones de bronce",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Why cast histories matter",
+      "fr": "Pourquoi les fontes comptent",
+      "es": "Por que importan las fundiciones",
+      "reviewNeeded": false
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-bronze-editions",
+    "routeIDs": [
+      "route-bronze-editions",
+      "route-researcher"
+    ],
+    "order": 1,
+    "script": {
+      "en": "Bronze at the Musee Rodin is never only material. A cast has a date, a founder, an edition status, and a relation to Rodin's models and moral right. This route listens for those distinctions, because a work can be Rodin's conception and still have a physical life after Rodin.",
+      "fr": "Le bronze au Musee Rodin n'est jamais seulement un materiau. Une fonte a une date, un fondeur, un statut d'edition et un lien avec les modeles et le droit moral de Rodin. Ce parcours ecoute ces distinctions, car une oeuvre peut relever de la conception de Rodin tout en ayant une vie physique apres lui.",
+      "es": "El bronce en el Museo Rodin nunca es solo material. Una fundicion tiene fecha, fundidor, estado de edicion y relacion con los modelos y el derecho moral de Rodin. Esta ruta escucha esas diferencias, porque una obra puede ser concepcion de Rodin y tener vida fisica despues de el.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 76,
+    "citations": [
+      {
+        "id": "cite-stop-bronze",
+        "sourceID": "S05",
+        "label": "S05",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/institution/editions-originales-de-bronze",
+        "note": null
+      }
+    ],
+    "tags": [
+      "bronze"
+    ]
+  },
+  {
+    "id": "stop-le-penseur",
+    "title": {
+      "en": "The Thinker",
+      "fr": "Le Penseur",
+      "es": "El pensador",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "From portal figure to icon",
+      "fr": "De figure du portail a icone",
+      "es": "De figura del portal a icono",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-le-penseur",
+    "routeIDs": [
+      "route-highlights",
+      "route-garden",
+      "route-gates-of-hell",
+      "route-bronze-editions"
+    ],
+    "order": 2,
+    "script": {
+      "en": "The Thinker began inside the world of The Gates of Hell. On its own, the figure can seem timeless, but its origin matters: this concentration of body and thought comes from a larger universe of judgment, poetry, and restless bodies.",
+      "fr": "Le Penseur commence dans l'univers de La Porte de l'Enfer. Isolee, la figure peut sembler intemporelle, mais son origine compte : cette concentration du corps et de la pensee vient d'un monde plus vaste de jugement, de poesie et de corps agites.",
+      "es": "El pensador comenzo dentro del mundo de La puerta del Infierno. Aislada, la figura puede parecer atemporal, pero su origen importa: esta concentracion de cuerpo y pensamiento viene de un universo mayor de juicio, poesia y cuerpos inquietos.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 58,
+    "citations": [
+      {
+        "id": "cite-stop-le-penseur",
+        "sourceID": "S16",
+        "label": "S16",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/penseur",
+        "note": null
+      }
+    ],
+    "tags": [
+      "rodin",
+      "highlight"
+    ]
+  },
+  {
+    "id": "stop-porte-enfer",
+    "title": {
+      "en": "The Gates of Hell",
+      "fr": "La Porte de l'Enfer",
+      "es": "La puerta del Infierno",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "The source-world",
+      "fr": "Le monde-source",
+      "es": "El mundo fuente",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-porte-enfer",
+    "routeIDs": [
+      "route-highlights",
+      "route-garden",
+      "route-gates-of-hell",
+      "route-bronze-editions"
+    ],
+    "order": 3,
+    "script": {
+      "en": "Stand before the portal as a workshop of figures. The Gates of Hell was never just an architectural commission; it became a reservoir where Rodin invented, separated, and recombined bodies. Many famous works make more sense when heard as fragments of this larger pressure.",
+      "fr": "Regardez le portail comme un atelier de figures. La Porte de l'Enfer ne fut pas seulement une commande architecturale ; elle devint un reservoir ou Rodin inventa, separa et recomposa des corps. Beaucoup d'oeuvres celebres se comprennent mieux comme fragments de cette pression plus grande.",
+      "es": "Mira el portal como un taller de figuras. La puerta del Infierno no fue solo un encargo arquitectonico; se volvio un deposito donde Rodin invento, separo y recombino cuerpos. Muchas obras famosas se entienden mejor como fragmentos de esta presion mayor.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 68,
+    "citations": [
+      {
+        "id": "cite-stop-porte-enfer",
+        "sourceID": "S17",
+        "label": "S17",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/porte-de-lenfer",
+        "note": null
+      }
+    ],
+    "tags": [
+      "rodin",
+      "gates-of-hell"
+    ]
+  },
+  {
+    "id": "stop-porte-enfer-meudon",
+    "title": {
+      "en": "The Gates of Hell, Meudon",
+      "fr": "La Porte de l'Enfer, Meudon",
+      "es": "La puerta del Infierno, Meudon",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "The plaster state",
+      "fr": "L'etat en platre",
+      "es": "El estado en yeso",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-porte-enfer-meudon",
+    "routeIDs": [
+      "route-meudon",
+      "route-gates-of-hell"
+    ],
+    "order": 2,
+    "script": {
+      "en": "The Meudon plaster asks you to listen differently. It is not the outdoor bronze's twin; it is a working state, tied to Rodin's studio and the 1900 exhibition context. Plaster makes process visible: additions, surfaces, scale, and decisions before bronze authority takes over.",
+      "fr": "Le platre de Meudon demande une autre ecoute. Ce n'est pas le double du bronze en plein air ; c'est un etat de travail, lie a l'atelier de Rodin et au contexte de 1900. Le platre rend le processus visible : ajouts, surfaces, echelle et decisions avant l'autorite du bronze.",
+      "es": "El yeso de Meudon pide otra escucha. No es el gemelo del bronce exterior; es un estado de trabajo, ligado al taller de Rodin y al contexto de 1900. El yeso hace visible el proceso: adiciones, superficies, escala y decisiones antes de la autoridad del bronce.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 73,
+    "citations": [
+      {
+        "id": "cite-stop-porte-enfer-meudon",
+        "sourceID": "S31",
+        "label": "S31",
+        "page": null,
+        "url": "https://www.meudon.musee-rodin.fr/musee/collections/oeuvres/porte-de-lenfer-meudon",
+        "note": null
+      }
+    ],
+    "tags": [
+      "meudon",
+      "plaster"
+    ]
+  },
+  {
+    "id": "stop-baiser",
+    "title": {
+      "en": "The Kiss",
+      "fr": "Le Baiser",
+      "es": "El beso",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "A separated embrace",
+      "fr": "Une etreinte detachee",
+      "es": "Un abrazo separado",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-baiser",
+    "routeIDs": [
+      "route-highlights",
+      "route-hotel-biron",
+      "route-gates-of-hell"
+    ],
+    "order": 4,
+    "script": {
+      "en": "The Kiss is easy to read as a self-contained image of embrace. Its history is more complicated. It was conceived in relation to The Gates of Hell, then became an independent marble commissioned by the French state. Keep both truths together: intimacy and institutional history.",
+      "fr": "Le Baiser se lit facilement comme une image autonome de l'etreinte. Son histoire est plus complexe. Il fut concu en lien avec La Porte de l'Enfer, puis devint un marbre autonome commande par l'Etat francais. Gardez ensemble ces deux verites : intimite et histoire institutionnelle.",
+      "es": "El beso se lee facilmente como imagen autonoma de abrazo. Su historia es mas compleja. Fue concebido en relacion con La puerta del Infierno y luego se volvio un marmol independiente encargado por el Estado frances. Conserva juntas esas verdades: intimidad e historia institucional.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 70,
+    "citations": [
+      {
+        "id": "cite-stop-baiser",
+        "sourceID": "S15",
+        "label": "S15",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/baiser",
+        "note": null
+      }
+    ],
+    "tags": [
+      "rodin",
+      "marble"
+    ]
+  },
+  {
+    "id": "stop-age-airain",
+    "title": {
+      "en": "The Age of Bronze",
+      "fr": "L'Age d'Airain",
+      "es": "La edad de bronce",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Realism and controversy",
+      "fr": "Realisme et controverse",
+      "es": "Realismo y controversia",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-age-airain",
+    "routeIDs": [
+      "route-hotel-biron"
+    ],
+    "order": 2,
+    "script": {
+      "en": "The Age of Bronze made Rodin visible through controversy. Its realism was so intense that he was accused of casting from life. That accusation, unfair as it was, tells you how forcefully Rodin's early work challenged expectations about sculpture and the living body.",
+      "fr": "L'Age d'Airain rendit Rodin visible par la controverse. Son realisme etait si intense qu'on l'accusa de moulage sur nature. Cette accusation, injuste, montre combien le premier Rodin bousculait les attentes sur la sculpture et le corps vivant.",
+      "es": "La edad de bronce hizo visible a Rodin mediante la controversia. Su realismo era tan intenso que se le acuso de moldear del natural. Esa acusacion, aunque injusta, muestra cuanto el primer Rodin desafiaba expectativas sobre escultura y cuerpo vivo.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 60,
+    "citations": [
+      {
+        "id": "cite-stop-age-airain",
+        "sourceID": "S19",
+        "label": "S19",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lage-dairain",
+        "note": null
+      }
+    ],
+    "tags": [
+      "rodin",
+      "bronze"
+    ]
+  },
+  {
+    "id": "stop-balzac",
+    "title": {
+      "en": "Monument to Balzac",
+      "fr": "Le Monument a Balzac",
+      "es": "Monumento a Balzac",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "A radical monument",
+      "fr": "Un monument radical",
+      "es": "Un monumento radical",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-balzac",
+    "routeIDs": [
+      "route-highlights",
+      "route-garden",
+      "route-balzac",
+      "route-bronze-editions"
+    ],
+    "order": 5,
+    "script": {
+      "en": "Rodin's Balzac does not flatter the writer with costume detail or anecdote. It gathers him into mass, robe, and force. The original commission was rejected, but the rejection now feels like part of the work's meaning: a monument that arrived before its public was ready.",
+      "fr": "Le Balzac de Rodin ne flatte pas l'ecrivain par le detail du costume ou l'anecdote. Il le rassemble en masse, robe et force. La commande initiale fut rejetee, mais ce rejet fait aujourd'hui partie du sens de l'oeuvre : un monument arrive avant son public.",
+      "es": "El Balzac de Rodin no halaga al escritor con detalle de traje ni anecdota. Lo concentra en masa, bata y fuerza. El encargo inicial fue rechazado, pero ese rechazo hoy parece parte del sentido de la obra: un monumento que llego antes que su publico.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 72,
+    "citations": [
+      {
+        "id": "cite-stop-balzac",
+        "sourceID": "S18",
+        "label": "S18",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-balzac",
+        "note": null
+      }
+    ],
+    "tags": [
+      "rodin",
+      "balzac"
+    ]
+  },
+  {
+    "id": "stop-balzac-meudon",
+    "title": {
+      "en": "Monument to Balzac, Meudon",
+      "fr": "Monument a Balzac, Meudon",
+      "es": "Monumento a Balzac, Meudon",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "The studio version",
+      "fr": "La version d'atelier",
+      "es": "La version de taller",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-balzac-meudon",
+    "routeIDs": [
+      "route-meudon",
+      "route-balzac"
+    ],
+    "order": 3,
+    "script": {
+      "en": "The Meudon Balzac returns the monument to the workshop. In plaster, the form feels less like a final public statement and more like a record of pressure, surface, and decisions that later bronze can make seem inevitable.",
+      "fr": "Le Balzac de Meudon ramene le monument a l'atelier. En platre, la forme semble moins une declaration publique finale qu'une trace de pression, de surface et de decisions que le bronze rendra ensuite inevitables.",
+      "es": "El Balzac de Meudon devuelve el monumento al taller. En yeso, la forma parece menos una declaracion publica final y mas un registro de presion, superficie y decisiones que el bronce luego hara parecer inevitables.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 62,
+    "citations": [
+      {
+        "id": "cite-stop-balzac-meudon",
+        "sourceID": "S32",
+        "label": "S32",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-balzac-meudon",
+        "note": null
+      }
+    ],
+    "tags": [
+      "meudon",
+      "balzac"
+    ]
+  },
+  {
+    "id": "stop-robe-balzac",
+    "title": {
+      "en": "Study of a Dressing Gown for Balzac",
+      "fr": "Etude de robe de chambre pour Balzac",
+      "es": "Estudio de bata para Balzac",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Drapery as evidence",
+      "fr": "Le drape comme preuve",
+      "es": "El drapeado como evidencia",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-robe-balzac",
+    "routeIDs": [
+      "route-balzac"
+    ],
+    "order": 3,
+    "script": {
+      "en": "This object makes the Balzac monument suddenly practical. Rodin did not invent the robe only as an idea; he studied fabric, volume, and the way clothing could become architecture around a body. The dressing gown turns drapery into evidence.",
+      "fr": "Cet objet rend le monument a Balzac soudain tres concret. Rodin n'inventa pas la robe seulement comme idee ; il etudia le tissu, le volume et la facon dont le vetement pouvait devenir architecture autour d'un corps. La robe devient une preuve.",
+      "es": "Este objeto vuelve de pronto practico el monumento a Balzac. Rodin no invento la bata solo como idea; estudio tejido, volumen y como la ropa podia volverse arquitectura alrededor de un cuerpo. La bata convierte el drapeado en evidencia.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 65,
+    "citations": [
+      {
+        "id": "cite-stop-robe-balzac",
+        "sourceID": "S34",
+        "label": "S34",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/etude-de-robe-de-chambre-pour-balzac",
+        "note": null
+      }
+    ],
+    "tags": [
+      "balzac",
+      "process"
+    ]
+  },
+  {
+    "id": "stop-abattis",
+    "title": {
+      "en": "Abattis",
+      "fr": "Abattis",
+      "es": "Abattis",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Fragments as repertory",
+      "fr": "Fragments comme repertoire",
+      "es": "Fragmentos como repertorio",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-abattis",
+    "routeIDs": [
+      "route-meudon"
+    ],
+    "order": 4,
+    "script": {
+      "en": "The Abattis are a key to Rodin's studio intelligence. These fragments are not leftovers in the weak sense. They are pieces kept available for recomposition, a physical vocabulary of hands, limbs, torsos, and possibilities.",
+      "fr": "Les Abattis sont une cle de l'intelligence d'atelier de Rodin. Ces fragments ne sont pas de simples restes. Ce sont des pieces gardees disponibles pour la recomposition, un vocabulaire physique de mains, membres, torses et possibles.",
+      "es": "Los Abattis son una clave de la inteligencia de taller de Rodin. Estos fragmentos no son sobras en sentido pobre. Son piezas mantenidas disponibles para recomponer, un vocabulario fisico de manos, miembros, torsos y posibilidades.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 64,
+    "citations": [
+      {
+        "id": "cite-stop-abattis",
+        "sourceID": "S20",
+        "label": "S20",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/abattis",
+        "note": null
+      }
+    ],
+    "tags": [
+      "process",
+      "plaster"
+    ]
+  },
+  {
+    "id": "stop-etude-baiser",
+    "title": {
+      "en": "Study for The Kiss",
+      "fr": "Etude pour le baiser",
+      "es": "Estudio para El beso",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "A drawing as invention",
+      "fr": "Un dessin comme invention",
+      "es": "Un dibujo como invencion",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-etude-baiser",
+    "routeIDs": [
+      "route-gates-of-hell",
+      "route-drawings"
+    ],
+    "order": 2,
+    "script": {
+      "en": "This Study for The Kiss is small compared with the marble, but it changes the scale of attention. Rodin works here with graphite, ink, gouache, cut paper, and collage. The idea of embrace is not only carved; it is tested through paper.",
+      "fr": "Cette Etude pour le baiser est petite face au marbre, mais elle change l'echelle de l'attention. Rodin y travaille graphite, encre, gouache, papier decoupe et collage. L'idee d'etreinte n'est pas seulement taillee ; elle est essayee sur papier.",
+      "es": "Este Estudio para El beso es pequeno frente al marmol, pero cambia la escala de atencion. Rodin trabaja aqui con grafito, tinta, gouache, papel recortado y collage. La idea de abrazo no solo se talla; se prueba en papel.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 62,
+    "citations": [
+      {
+        "id": "cite-stop-etude-baiser",
+        "sourceID": "S23",
+        "label": "S23",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/etude-pour-baiser",
+        "note": null
+      }
+    ],
+    "tags": [
+      "drawing",
+      "kiss"
+    ]
+  },
+  {
+    "id": "stop-portrait-rodin",
+    "title": {
+      "en": "Portrait of Rodin",
+      "fr": "Portrait de Rodin",
+      "es": "Retrato de Rodin",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Claudel sees Rodin",
+      "fr": "Claudel regarde Rodin",
+      "es": "Claudel mira a Rodin",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-portrait-rodin",
+    "routeIDs": [
+      "route-hotel-biron",
+      "route-camille-claudel"
+    ],
+    "order": 2,
+    "script": {
+      "en": "Claudel's Portrait of Rodin reverses the usual direction of attention. Rodin is not only the master or museum subject; he becomes the sitter, compressed by another sculptor's eye into a dense bronze presence.",
+      "fr": "Le Portrait de Rodin par Claudel renverse le sens habituel du regard. Rodin n'est plus seulement le maitre ou le sujet du musee ; il devient le modele, condense par l'oeil d'une autre sculptrice en une presence de bronze.",
+      "es": "El Retrato de Rodin de Claudel invierte la direccion habitual de la atencion. Rodin no es solo el maestro o sujeto del museo; se vuelve modelo, comprimido por la mirada de otra escultora en una presencia de bronce.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 59,
+    "citations": [
+      {
+        "id": "cite-stop-portrait-rodin",
+        "sourceID": "S24",
+        "label": "S24",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/portrait-de-rodin",
+        "note": null
+      }
+    ],
+    "tags": [
+      "claudel",
+      "portrait"
+    ]
+  },
+  {
+    "id": "stop-valse",
+    "title": {
+      "en": "The Waltz",
+      "fr": "La Valse",
+      "es": "El vals",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Movement held in bronze",
+      "fr": "Le mouvement retenu en bronze",
+      "es": "Movimiento retenido en bronce",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-valse",
+    "routeIDs": [
+      "route-camille-claudel"
+    ],
+    "order": 3,
+    "script": {
+      "en": "The Waltz turns movement into a compact spiral. Claudel's group is intimate, but not still. The figures seem to hold one another and almost lose balance at the same time, making sculpture feel like a paused motion rather than a fixed pose.",
+      "fr": "La Valse transforme le mouvement en spirale compacte. Le groupe de Claudel est intime, mais pas immobile. Les figures semblent se tenir et presque perdre l'equilibre en meme temps, faisant de la sculpture un mouvement suspendu plutot qu'une pose fixe.",
+      "es": "El vals convierte el movimiento en una espiral compacta. El grupo de Claudel es intimo, pero no inmovil. Las figuras parecen sostenerse y casi perder el equilibrio a la vez, haciendo que la escultura parezca movimiento suspendido, no pose fija.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 60,
+    "citations": [
+      {
+        "id": "cite-stop-valse",
+        "sourceID": "S25",
+        "label": "S25",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/valse-ou-valseurs",
+        "note": null
+      }
+    ],
+    "tags": [
+      "claudel",
+      "movement"
+    ]
+  },
+  {
+    "id": "stop-causeuses",
+    "title": {
+      "en": "The Gossips",
+      "fr": "Les Causeuses",
+      "es": "Las conversadoras",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Small scale, intense space",
+      "fr": "Petite echelle, espace intense",
+      "es": "Pequena escala, espacio intenso",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-causeuses",
+    "routeIDs": [
+      "route-camille-claudel"
+    ],
+    "order": 4,
+    "script": {
+      "en": "The Gossips pulls you close. Claudel stages conversation as a small architecture of bodies, secrecy, and material contrast. The precious surface does not soften the work; it sharpens the sense that something private is happening in public view.",
+      "fr": "Les Causeuses vous rapprochent. Claudel met en scene la conversation comme une petite architecture de corps, de secret et de contraste materiel. La surface precieuse n'adoucit pas l'oeuvre ; elle renforce l'impression qu'une chose privee se joue en public.",
+      "es": "Las conversadoras te acercan. Claudel escenifica la conversacion como una pequena arquitectura de cuerpos, secreto y contraste material. La superficie preciosa no suaviza la obra; agudiza la sensacion de que algo privado ocurre a la vista publica.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 64,
+    "citations": [
+      {
+        "id": "cite-stop-causeuses",
+        "sourceID": "S26",
+        "label": "S26",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/causeuses-ou-bavardes",
+        "note": null
+      }
+    ],
+    "tags": [
+      "claudel"
+    ]
+  },
+  {
+    "id": "stop-clotho",
+    "title": {
+      "en": "Clotho",
+      "fr": "Clotho",
+      "es": "Cloto",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Fate and the body",
+      "fr": "Le destin et le corps",
+      "es": "Destino y cuerpo",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-clotho",
+    "routeIDs": [
+      "route-camille-claudel"
+    ],
+    "order": 5,
+    "script": {
+      "en": "Clotho changes the emotional temperature. Claudel turns to myth, age, and fate, but the work remains bodily. Its severity is part of its force. It asks you to consider beauty, vulnerability, and time without making them easy.",
+      "fr": "Clotho change la temperature emotionnelle. Claudel se tourne vers le mythe, l'age et le destin, mais l'oeuvre reste corporelle. Sa severite fait partie de sa force. Elle demande de penser beaute, vulnerabilite et temps sans les rendre faciles.",
+      "es": "Cloto cambia la temperatura emocional. Claudel se dirige al mito, la edad y el destino, pero la obra sigue siendo corporal. Su severidad es parte de su fuerza. Pide pensar belleza, vulnerabilidad y tiempo sin volverlos faciles.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 61,
+    "citations": [
+      {
+        "id": "cite-stop-clotho",
+        "sourceID": "S27",
+        "label": "S27",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/clotho",
+        "note": null
+      }
+    ],
+    "tags": [
+      "claudel",
+      "mythology"
+    ]
+  },
+  {
+    "id": "stop-letter-claudel-rodin",
+    "title": {
+      "en": "Letter from Camille Claudel to Rodin",
+      "fr": "Lettre de Camille Claudel a Rodin",
+      "es": "Carta de Camille Claudel a Rodin",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Archive and relationship",
+      "fr": "Archive et relation",
+      "es": "Archivo y relacion",
+      "reviewNeeded": false
+    },
+    "linkedKind": "work",
+    "linkedID": "work-letter-claudel-rodin",
+    "routeIDs": [
+      "route-camille-claudel"
+    ],
+    "order": 6,
+    "script": {
+      "en": "A letter is a different kind of museum object. This one links Claudel and Rodin through handwriting, paper, and donation history. It can deepen the biographical story, but it also reminds us that archives are built from fragile surviving traces.",
+      "fr": "Une lettre est un autre type d'objet de musee. Celle-ci relie Claudel et Rodin par l'ecriture, le papier et l'histoire de la donation. Elle approfondit la biographie, mais rappelle aussi que les archives se construisent avec des traces fragiles qui ont survecu.",
+      "es": "Una carta es otro tipo de objeto museal. Esta une a Claudel y Rodin por escritura, papel e historia de donacion. Puede profundizar la biografia, pero tambien recuerda que los archivos se construyen con rastros fragiles que sobrevivieron.",
+      "reviewNeeded": false
+    },
+    "durationSecondsEstimate": 65,
+    "citations": [
+      {
+        "id": "cite-stop-letter-claudel-rodin",
+        "sourceID": "S29",
+        "label": "S29",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lettre-de-camille-claudel-auguste-rodin",
+        "note": null
+      }
+    ],
+    "tags": [
+      "claudel",
+      "archives"
+    ]
+  },
+  {
+    "id": "stop-founding-donation",
+    "title": {
+      "en": "Founding Donation",
+      "fr": "Donation fondatrice",
+      "es": "Donacion fundadora",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "Why the museum exists",
+      "fr": "Pourquoi le musee existe",
+      "es": "Por que existe el museo",
+      "reviewNeeded": true
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-founding-donation",
+    "routeIDs": [
+      "route-institution-research"
+    ],
+    "order": 1,
+    "script": {
+      "en": "Begin with the legal and personal act behind the museum. In 1916, Rodin gave the French state his works, property, collections, molds, and related rights. That donation makes the Musee Rodin different from a museum that simply bought a group of masterpieces. It is built around a legacy the institution must preserve, study, show, and defend.",
+      "fr": "Commencez par l'acte juridique et personnel derriere le musee. En 1916, Rodin donna a l'Etat francais ses oeuvres, biens, collections, moules et droits associes. Cette donation distingue le musee Rodin d'un musee qui aurait simplement achete des chefs-d'oeuvre. Il est construit autour d'un heritage a conserver, etudier, montrer et defendre.",
+      "es": "Empieza con el acto legal y personal detras del museo. En 1916, Rodin entrego al Estado frances sus obras, bienes, colecciones, moldes y derechos relacionados. Esa donacion diferencia al Museo Rodin de un museo que simplemente compro obras maestras. Esta construido alrededor de un legado que debe conservar, estudiar, mostrar y defender.",
+      "reviewNeeded": true
+    },
+    "durationSecondsEstimate": 35,
+    "citations": [
+      {
+        "id": "cite-stop-founding-donation-s01",
+        "sourceID": "S01",
+        "label": "S01",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/institution/musee-rodin-heritier",
+        "note": null
+      },
+      {
+        "id": "cite-stop-founding-donation-s02",
+        "sourceID": "S02",
+        "label": "S02",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/ressources/vie-de-rodin/histoire-de-la-donation-de-rodin",
+        "note": null
+      },
+      {
+        "id": "cite-stop-founding-donation-p01",
+        "sourceID": "P01",
+        "label": "P01 p.3",
+        "page": 3,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2025-09/250910_mr_ra2024_complete-bd.pdf",
+        "note": null
+      }
+    ],
+    "tags": [
+      "institution",
+      "donation"
+    ]
+  },
+  {
+    "id": "stop-governance-finance",
+    "title": {
+      "en": "Governance and Finance",
+      "fr": "Gouvernance et financement",
+      "es": "Gobernanza y financiacion",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "Stewardship as museum work",
+      "fr": "La gestion comme travail museal",
+      "es": "La gestion como trabajo museal",
+      "reviewNeeded": true
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-governance-finance",
+    "routeIDs": [
+      "route-institution-research"
+    ],
+    "order": 2,
+    "script": {
+      "en": "The Musee Rodin is also an institution with reports, budgets, obligations, partnerships, and public programs. Annual reports are useful because they show conservation, research, moral-right work, exhibitions, education, and visitor activity in one frame. Treat any precise budget or attendance figure as source-needed until it is checked directly against the report table.",
+      "fr": "Le musee Rodin est aussi une institution avec rapports, budgets, obligations, partenariats et programmes publics. Les rapports annuels sont utiles car ils montrent conservation, recherche, droit moral, expositions, education et publics dans un meme cadre. Toute valeur precise de budget ou frequentation reste a sourcer directement dans les tableaux.",
+      "es": "El Museo Rodin tambien es una institucion con informes, presupuestos, obligaciones, alianzas y programas publicos. Los informes anuales son utiles porque muestran conservacion, investigacion, derecho moral, exposiciones, educacion y publico en un mismo marco. Cualquier cifra precisa de presupuesto o asistencia debe verificarse directamente en las tablas.",
+      "reviewNeeded": true
+    },
+    "durationSecondsEstimate": 35,
+    "citations": [
+      {
+        "id": "cite-stop-governance-finance-s04",
+        "sourceID": "S04",
+        "label": "S04",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/institution/lautofinancement-du-musee-rodin",
+        "note": null
+      },
+      {
+        "id": "cite-stop-governance-finance-p01",
+        "sourceID": "P01",
+        "label": "P01 p.3",
+        "page": 3,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2025-09/250910_mr_ra2024_complete-bd.pdf",
+        "note": null
+      },
+      {
+        "id": "cite-stop-governance-finance-p02",
+        "sourceID": "P02",
+        "label": "P02 p.7",
+        "page": 7,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2024-07/240613_mr_ra2024_ensemble_planche_min_0.pdf",
+        "note": null
+      },
+      {
+        "id": "cite-stop-governance-finance-p03",
+        "sourceID": "P03",
+        "label": "P03 p.7",
+        "page": 7,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2023-07/mr_ra2022.pdf",
+        "note": null
+      }
+    ],
+    "tags": [
+      "institution",
+      "finance"
+    ]
+  },
+  {
+    "id": "stop-moral-rights",
+    "title": {
+      "en": "Moral Rights",
+      "fr": "Droit moral",
+      "es": "Derechos morales",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "Why editions are not just copies",
+      "fr": "Pourquoi les editions ne sont pas de simples copies",
+      "es": "Por que las ediciones no son simples copias",
+      "reviewNeeded": true
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-bronze-editions",
+    "routeIDs": [
+      "route-institution-research",
+      "route-researcher"
+    ],
+    "order": 3,
+    "script": {
+      "en": "At the Musee Rodin, bronze is tied to responsibility. The museum holds a role in Rodin's moral right, and it distinguishes original editions, authorized casts, reproductions, models, and later physical lives of works. That is why a cast date or founder can matter as much as a title. The object has a history after Rodin, and the museum helps make that history legible.",
+      "fr": "Au musee Rodin, le bronze est lie a une responsabilite. Le musee joue un role dans le droit moral de Rodin et distingue editions originales, fontes autorisees, reproductions, modeles et vies materielles posterieures des oeuvres. C'est pourquoi une date de fonte ou un fondeur peut compter autant qu'un titre.",
+      "es": "En el Museo Rodin, el bronce esta ligado a una responsabilidad. El museo participa en el derecho moral de Rodin y distingue ediciones originales, fundiciones autorizadas, reproducciones, modelos y vidas materiales posteriores de las obras. Por eso una fecha de fundicion o un fundidor puede importar tanto como un titulo.",
+      "reviewNeeded": true
+    },
+    "durationSecondsEstimate": 35,
+    "citations": [
+      {
+        "id": "cite-stop-moral-rights-s05",
+        "sourceID": "S05",
+        "label": "S05",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/institution/editions-originales-de-bronze",
+        "note": null
+      },
+      {
+        "id": "cite-stop-moral-rights-p11",
+        "sourceID": "P11",
+        "label": "P11 p.2",
+        "page": 2,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2021-04/2537_d90581eccbf07a0_1.pdf",
+        "note": null
+      }
+    ],
+    "tags": [
+      "bronze",
+      "moral-right"
+    ]
+  },
+  {
+    "id": "stop-research-resources",
+    "title": {
+      "en": "Research Resources",
+      "fr": "Ressources de recherche",
+      "es": "Recursos de investigacion",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "Where object stories deepen",
+      "fr": "Ou les histoires d'oeuvres s'approfondissent",
+      "es": "Donde se profundizan las historias de obras",
+      "reviewNeeded": true
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-research-resources",
+    "routeIDs": [
+      "route-institution-research",
+      "route-researcher"
+    ],
+    "order": 4,
+    "script": {
+      "en": "When a label is not enough, the research path begins. The public portal is the first stop, but the museum also points researchers toward object dossiers, archives, documentary series, subject bibliographies, and scientific publications. In app content, that means object-level claims should stay modest unless the source really supports them.",
+      "fr": "Quand une etiquette ne suffit pas, le parcours de recherche commence. Le portail public est la premiere etape, mais le musee oriente aussi vers dossiers d'oeuvres, archives, fonds documentaires, bibliographies par sujet et publications scientifiques. Dans l'app, les affirmations par objet doivent donc rester modestes si la source ne les soutient pas.",
+      "es": "Cuando una etiqueta no basta, empieza la ruta de investigacion. El portal publico es la primera parada, pero el museo tambien orienta hacia expedientes de obras, archivos, fondos documentales, bibliografias por tema y publicaciones cientificas. En la app, las afirmaciones por objeto deben ser prudentes si la fuente no las sostiene.",
+      "reviewNeeded": true
+    },
+    "durationSecondsEstimate": 35,
+    "citations": [
+      {
+        "id": "cite-stop-research-resources-s09",
+        "sourceID": "S09",
+        "label": "S09",
+        "page": null,
+        "url": "https://collections.musee-rodin.fr/",
+        "note": null
+      },
+      {
+        "id": "cite-stop-research-resources-s11",
+        "sourceID": "S11",
+        "label": "S11",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/recherche/fonds-patrimoniaux-et-documentaires-du-musee/fonds-documentaires/dossiers-doeuvres",
+        "note": null
+      },
+      {
+        "id": "cite-stop-research-resources-s13",
+        "sourceID": "S13",
+        "label": "S13",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/recherche/fonds-patrimoniaux-et-documentaires-du-musee/fonds-documentaires",
+        "note": null
+      },
+      {
+        "id": "cite-stop-research-resources-p06",
+        "sourceID": "P06",
+        "label": "P06 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2020-12/5261_bibliographie_des_oeuvres_par_sujet.pdf",
+        "note": null
+      }
+    ],
+    "tags": [
+      "research",
+      "archives"
+    ]
+  },
+  {
+    "id": "stop-archives-research",
+    "title": {
+      "en": "Archives",
+      "fr": "Archives",
+      "es": "Archivos",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "The museum behind the visible museum",
+      "fr": "Le musee derriere le musee visible",
+      "es": "El museo detras del museo visible",
+      "reviewNeeded": true
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-archives",
+    "routeIDs": [
+      "route-institution-research",
+      "route-researcher"
+    ],
+    "order": 5,
+    "script": {
+      "en": "Archives change the scale of looking. Letters, notebooks, object files, press cuttings, library records, and conservation traces do not always appear in the room, but they shape what the museum can responsibly say. For a companion app, the honest move is to cite what is known and mark what still needs the reading room.",
+      "fr": "Les archives changent l'echelle du regard. Lettres, carnets, dossiers d'oeuvres, coupures de presse, bibliotheque et traces de conservation n'apparaissent pas toujours dans la salle, mais ils structurent ce que le musee peut dire avec responsabilite. Pour l'app, il faut citer ce qui est connu et signaler ce qui demande encore la salle de lecture.",
+      "es": "Los archivos cambian la escala de la mirada. Cartas, cuadernos, expedientes, recortes de prensa, biblioteca y rastros de conservacion no siempre aparecen en la sala, pero estructuran lo que el museo puede decir con responsabilidad. Para la app, conviene citar lo conocido y marcar lo que aun necesita sala de lectura.",
+      "reviewNeeded": true
+    },
+    "durationSecondsEstimate": 35,
+    "citations": [
+      {
+        "id": "cite-stop-archives-research-s10",
+        "sourceID": "S10",
+        "label": "S10",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/en/research/search-collections/about-collections",
+        "note": null
+      },
+      {
+        "id": "cite-stop-archives-research-s11",
+        "sourceID": "S11",
+        "label": "S11",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/recherche/fonds-patrimoniaux-et-documentaires-du-musee/fonds-documentaires/dossiers-doeuvres",
+        "note": null
+      }
+    ],
+    "tags": [
+      "archives",
+      "research"
+    ]
+  },
+  {
+    "id": "stop-visitor-planning",
+    "title": {
+      "en": "Visitor Context",
+      "fr": "Contexte de visite",
+      "es": "Contexto de visita",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "Useful facts need fresh checks",
+      "fr": "Les faits utiles demandent verification",
+      "es": "Los datos utiles requieren revision",
+      "reviewNeeded": true
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-visitor-practical",
+    "routeIDs": [
+      "route-visit-context"
+    ],
+    "order": 1,
+    "script": {
+      "en": "Visitor information is helpful, but it ages quickly. The research package captured Paris and Meudon details on July 23, 2026, including hours, last entry, prices, access notes, and seasonal openings. Use those facts as orientation, not as a live guarantee. Before a real visit, refresh them from the official museum pages.",
+      "fr": "Les informations de visite sont utiles, mais vieillissent vite. Le dossier de recherche a releve les donnees de Paris et Meudon le 23 juillet 2026 : horaires, derniere entree, tarifs, acces et ouvertures saisonnieres. Utilisez-les comme orientation, non comme garantie en direct. Avant une visite reelle, verifiez les pages officielles.",
+      "es": "La informacion de visita es util, pero envejece rapido. El paquete de investigacion registro datos de Paris y Meudon el 23 de julio de 2026: horarios, ultima entrada, precios, acceso y aperturas estacionales. Usalos como orientacion, no como garantia en vivo. Antes de una visita real, revisa las paginas oficiales.",
+      "reviewNeeded": true
+    },
+    "durationSecondsEstimate": 35,
+    "citations": [
+      {
+        "id": "cite-stop-visitor-planning-s21",
+        "sourceID": "S21",
+        "label": "S21",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques",
+        "note": null
+      },
+      {
+        "id": "cite-stop-visitor-planning-s22",
+        "sourceID": "S22",
+        "label": "S22",
+        "page": null,
+        "url": "https://www.meudon.musee-rodin.fr/preparer-sa-visite-meudon/informations-pratiques-meudon",
+        "note": null
+      },
+      {
+        "id": "cite-stop-visitor-planning-p05",
+        "sourceID": "P05",
+        "label": "P05 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2026-06/cp_institutionnel_2026_en.pdf",
+        "note": null
+      },
+      {
+        "id": "cite-stop-visitor-planning-p07",
+        "sourceID": "P07",
+        "label": "P07 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/251020%20MR%20DEPLIANT%20DE%20VISITE%20FAB_FR.pdf",
+        "note": null
+      },
+      {
+        "id": "cite-stop-visitor-planning-p08",
+        "sourceID": "P08",
+        "label": "P08 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/2026_mr_reouverture_de_meudon_vf.pdf",
+        "note": null
+      }
+    ],
+    "tags": [
+      "visitor",
+      "date-sensitive"
+    ]
+  },
+  {
+    "id": "stop-education-studio",
+    "title": {
+      "en": "Education and Studio Rodin",
+      "fr": "Education et Studio Rodin",
+      "es": "Educacion y Studio Rodin",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "Learning by making",
+      "fr": "Apprendre par la pratique",
+      "es": "Aprender haciendo",
+      "reviewNeeded": true
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-education-studio",
+    "routeIDs": [
+      "route-visit-context"
+    ],
+    "order": 5,
+    "script": {
+      "en": "The museum's education material is built around touch, play, movement, and making. Atelier Rodin serves families in the Paris museum, while Studio Rodin carries interpretation outward through thematic modules and reproductions. This is not separate from scholarship. It is another way the museum translates process into public experience.",
+      "fr": "Les ressources educatives du musee s'appuient sur toucher, jeu, mouvement et fabrication. L'Atelier Rodin accueille les familles a Paris, tandis que Studio Rodin diffuse l'interpretation par modules thematiques et reproductions. Ce n'est pas separe de la recherche : c'est une autre traduction du processus vers le public.",
+      "es": "Los recursos educativos del museo se apoyan en tacto, juego, movimiento y hacer. Atelier Rodin recibe familias en Paris, mientras Studio Rodin lleva interpretacion por modulos tematicos y reproducciones. No esta separado de la investigacion: es otra traduccion del proceso hacia el publico.",
+      "reviewNeeded": true
+    },
+    "durationSecondsEstimate": 35,
+    "citations": [
+      {
+        "id": "cite-stop-education-studio-p10",
+        "sourceID": "P10",
+        "label": "P10 p.5",
+        "page": 5,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2026-04/260427_mr_sr_dossier_de_presse.pdf",
+        "note": null
+      },
+      {
+        "id": "cite-stop-education-studio-p12",
+        "sourceID": "P12",
+        "label": "P12 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/mr_cp_atelier_rodin_2026.pdf",
+        "note": null
+      }
+    ],
+    "tags": [
+      "education",
+      "studio"
+    ]
+  },
+  {
+    "id": "stop-antiques-collection",
+    "title": {
+      "en": "Rodin's Antiquities",
+      "fr": "Antiques de Rodin",
+      "es": "Antiguedades de Rodin",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "A collection inside the collection",
+      "fr": "Une collection dans la collection",
+      "es": "Una coleccion dentro de la coleccion",
+      "reviewNeeded": true
+    },
+    "linkedKind": "topic",
+    "linkedID": "topic-antiques-collection",
+    "routeIDs": [
+      "route-visit-context"
+    ],
+    "order": 6,
+    "script": {
+      "en": "Rodin did not donate only his own sculptures. His antique collection also belongs to the museum story. It helps frame him as a modern artist looking hard at older forms. For now, treat that as context. Individual antique objects need their own collection records before they become app-ready work entries.",
+      "fr": "Rodin ne donna pas seulement ses propres sculptures. Sa collection d'antiques appartient aussi a l'histoire du musee. Elle le montre comme artiste moderne regardant les formes anciennes. Pour l'instant, c'est un contexte. Chaque antique exige sa notice avant de devenir une entree d'oeuvre.",
+      "es": "Rodin no dono solo sus esculturas. Su coleccion de antiguedades tambien pertenece a la historia del museo. Lo muestra como artista moderno atento a formas antiguas. Por ahora, es contexto. Cada antiguedad necesita su ficha antes de convertirse en obra de la app.",
+      "reviewNeeded": true
+    },
+    "durationSecondsEstimate": 35,
+    "citations": [
+      {
+        "id": "cite-stop-antiques-collection-s03",
+        "sourceID": "S03",
+        "label": "S03",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/musee-rodin/hotel-biron",
+        "note": null
+      },
+      {
+        "id": "cite-stop-antiques-collection-s09",
+        "sourceID": "S09",
+        "label": "S09",
+        "page": null,
+        "url": "https://collections.musee-rodin.fr/",
+        "note": null
+      },
+      {
+        "id": "cite-stop-antiques-collection-s10",
+        "sourceID": "S10",
+        "label": "S10",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/en/research/search-collections/about-collections",
+        "note": null
+      }
+    ],
+    "tags": [
+      "antiques",
+      "collection"
+    ]
+  }
+]

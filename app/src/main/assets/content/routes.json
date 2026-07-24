@@ -1,0 +1,574 @@
+[
+  {
+    "id": "route-highlights",
+    "title": {
+      "en": "Highlights",
+      "fr": "Incontournables",
+      "es": "Obras clave",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "A first route through the collection",
+      "fr": "Un premier parcours dans la collection",
+      "es": "Un primer recorrido por la coleccion",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Start with the works that define the museum's public face and studio depth.",
+      "fr": "Commencez par les oeuvres qui definissent le visage public du musee et sa profondeur d'atelier.",
+      "es": "Empieza con las obras que definen la imagen publica del museo y su profundidad de taller.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 18,
+    "stopIDs": [
+      "stop-le-penseur",
+      "stop-porte-enfer",
+      "stop-baiser",
+      "stop-balzac",
+      "stop-camille-claudel"
+    ],
+    "tags": [
+      "highlight"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-highlights",
+        "sourceID": "S08",
+        "label": "S08",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-garden",
+    "title": {
+      "en": "Garden",
+      "fr": "Jardin",
+      "es": "Jardin",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Bronzes outside the Hotel Biron",
+      "fr": "Bronzes autour de l'Hotel Biron",
+      "es": "Bronces alrededor del Hotel Biron",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Listen to the garden as a sculptural route, not a pause between rooms.",
+      "fr": "Ecoutez le jardin comme un parcours sculptural, et non comme une pause entre les salles.",
+      "es": "Escucha el jardin como recorrido escultorico, no como pausa entre salas.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 12,
+    "stopIDs": [
+      "stop-garden",
+      "stop-le-penseur",
+      "stop-porte-enfer",
+      "stop-balzac"
+    ],
+    "tags": [
+      "garden"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-garden",
+        "sourceID": "S06",
+        "label": "S06",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/musee-rodin/jardin-de-sculptures",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-hotel-biron",
+    "title": {
+      "en": "Hotel Biron",
+      "fr": "Hotel Biron",
+      "es": "Hotel Biron",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Rooms, donation, and display",
+      "fr": "Salles, donation et presentation",
+      "es": "Salas, donacion y exhibicion",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Move through the Paris site as a museum made from a donation, a building, and a way of showing process.",
+      "fr": "Parcourez le site parisien comme un musee ne d'une donation, d'un batiment et d'une facon de montrer le processus.",
+      "es": "Recorre el sitio parisino como un museo nacido de una donacion, un edificio y una forma de mostrar proceso.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 14,
+    "stopIDs": [
+      "stop-hotel-biron",
+      "stop-age-airain",
+      "stop-baiser",
+      "stop-portrait-rodin"
+    ],
+    "tags": [
+      "hotel-biron"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-hotel-biron",
+        "sourceID": "S03",
+        "label": "S03",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/musee-rodin/hotel-biron",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-meudon",
+    "title": {
+      "en": "Meudon",
+      "fr": "Meudon",
+      "es": "Meudon",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Plaster, house, and studio",
+      "fr": "Platre, maison et atelier",
+      "es": "Yeso, casa y taller",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Use Meudon to understand Rodin through plasters and studio material.",
+      "fr": "Utilisez Meudon pour comprendre Rodin par les platres et le materiau d'atelier.",
+      "es": "Usa Meudon para entender a Rodin mediante yesos y material de taller.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 16,
+    "stopIDs": [
+      "stop-meudon",
+      "stop-porte-enfer-meudon",
+      "stop-balzac-meudon",
+      "stop-abattis"
+    ],
+    "tags": [
+      "meudon"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-meudon",
+        "sourceID": "S22",
+        "label": "S22",
+        "page": null,
+        "url": "https://www.meudon.musee-rodin.fr/preparer-sa-visite-meudon/informations-pratiques-meudon",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-camille-claudel",
+    "title": {
+      "en": "Camille Claudel",
+      "fr": "Camille Claudel",
+      "es": "Camille Claudel",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "A distinct sculptural voice",
+      "fr": "Une voix sculpturale distincte",
+      "es": "Una voz escultorica propia",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Follow Claudel through portrait, movement, conversation, myth, letters, and photography.",
+      "fr": "Suivez Claudel a travers portrait, mouvement, conversation, mythe, lettres et photographie.",
+      "es": "Sigue a Claudel por retrato, movimiento, conversacion, mito, cartas y fotografia.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 18,
+    "stopIDs": [
+      "stop-camille-claudel",
+      "stop-portrait-rodin",
+      "stop-valse",
+      "stop-causeuses",
+      "stop-clotho",
+      "stop-letter-claudel-rodin"
+    ],
+    "tags": [
+      "claudel"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-claudel",
+        "sourceID": "S24",
+        "label": "S24",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/portrait-de-rodin",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-gates-of-hell",
+    "title": {
+      "en": "The Gates of Hell",
+      "fr": "La Porte de l'Enfer",
+      "es": "La puerta del Infierno",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Portal, figures, and afterlives",
+      "fr": "Portail, figures et devenirs",
+      "es": "Portal, figuras y vidas posteriores",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Trace the portal as a source for independent works and repeated reinvention.",
+      "fr": "Suivez le portail comme source d'oeuvres autonomes et de reinventions repetees.",
+      "es": "Sigue el portal como fuente de obras autonomas y reinvenciones repetidas.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 14,
+    "stopIDs": [
+      "stop-porte-enfer",
+      "stop-porte-enfer-meudon",
+      "stop-le-penseur",
+      "stop-baiser",
+      "stop-etude-baiser"
+    ],
+    "tags": [
+      "gates-of-hell"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-gates",
+        "sourceID": "S17",
+        "label": "S17",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/porte-de-lenfer",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-balzac",
+    "title": {
+      "en": "Balzac",
+      "fr": "Balzac",
+      "es": "Balzac",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "From robe to monument",
+      "fr": "De la robe au monument",
+      "es": "De la bata al monumento",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A focused path through Rodin's most contested monument and its studio evidence.",
+      "fr": "Un parcours concentre autour du monument le plus conteste de Rodin et de ses preuves d'atelier.",
+      "es": "Un recorrido centrado en el monumento mas discutido de Rodin y sus evidencias de taller.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 10,
+    "stopIDs": [
+      "stop-balzac",
+      "stop-balzac-meudon",
+      "stop-robe-balzac"
+    ],
+    "tags": [
+      "balzac"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-balzac",
+        "sourceID": "S18",
+        "label": "S18",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-balzac",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-drawings",
+    "title": {
+      "en": "Drawings",
+      "fr": "Dessins",
+      "es": "Dibujos",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Paper as sculptural thinking",
+      "fr": "Le papier comme pensee sculpturale",
+      "es": "El papel como pensamiento escultorico",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A small route about Rodin's drawing practice and the Study for The Kiss.",
+      "fr": "Un petit parcours sur la pratique du dessin chez Rodin et l'Etude pour le baiser.",
+      "es": "Un pequeno recorrido sobre la practica del dibujo de Rodin y el Estudio para El beso.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 6,
+    "stopIDs": [
+      "stop-drawings",
+      "stop-etude-baiser"
+    ],
+    "tags": [
+      "drawings"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-drawings",
+        "sourceID": "P09",
+        "label": "P09",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2025-12/mr_rodin-dessins-libres_dp_vf_0.pdf",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-bronze-editions",
+    "title": {
+      "en": "Bronze Editions",
+      "fr": "Editions de bronze",
+      "es": "Ediciones de bronce",
+      "reviewNeeded": false
+    },
+    "subtitle": {
+      "en": "Originals, casts, and museum responsibility",
+      "fr": "Originaux, fontes et responsabilite du musee",
+      "es": "Originales, fundiciones y responsabilidad del museo",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Understand why cast dates, editions, models, and moral rights matter at the Musee Rodin.",
+      "fr": "Comprenez pourquoi dates de fonte, editions, modeles et droit moral comptent au Musee Rodin.",
+      "es": "Comprende por que las fechas de fundicion, ediciones, modelos y derecho moral importan en el Museo Rodin.",
+      "reviewNeeded": false
+    },
+    "estimatedMinutes": 9,
+    "stopIDs": [
+      "stop-bronze-editions",
+      "stop-le-penseur",
+      "stop-porte-enfer",
+      "stop-balzac"
+    ],
+    "tags": [
+      "bronze"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-bronze",
+        "sourceID": "S05",
+        "label": "S05",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/institution/editions-originales-de-bronze",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-institution-research",
+    "title": {
+      "en": "Institution and Research",
+      "fr": "Institution et recherche",
+      "es": "Institucion e investigacion",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "Donation, rights, reports, and archives",
+      "fr": "Donation, droits, rapports et archives",
+      "es": "Donacion, derechos, informes y archivos",
+      "reviewNeeded": true
+    },
+    "summary": {
+      "en": "A context route for understanding why this museum is also a steward of rights, records, research, and public responsibility.",
+      "fr": "Un parcours de contexte pour comprendre pourquoi ce musee est aussi gardien de droits, archives, recherche et responsabilite publique.",
+      "es": "Un recorrido de contexto para entender por que este museo tambien custodia derechos, archivos, investigacion y responsabilidad publica.",
+      "reviewNeeded": true
+    },
+    "estimatedMinutes": 18,
+    "stopIDs": [
+      "stop-founding-donation",
+      "stop-governance-finance",
+      "stop-moral-rights",
+      "stop-research-resources",
+      "stop-archives-research"
+    ],
+    "tags": [
+      "institution",
+      "research"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-institution-research-s01",
+        "sourceID": "S01",
+        "label": "S01",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/institution/musee-rodin-heritier",
+        "note": null
+      },
+      {
+        "id": "cite-route-institution-research-s04",
+        "sourceID": "S04",
+        "label": "S04",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/institution/lautofinancement-du-musee-rodin",
+        "note": null
+      },
+      {
+        "id": "cite-route-institution-research-s10",
+        "sourceID": "S10",
+        "label": "S10",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/en/research/search-collections/about-collections",
+        "note": null
+      },
+      {
+        "id": "cite-route-institution-research-p06",
+        "sourceID": "P06",
+        "label": "P06 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2020-12/5261_bibliographie_des_oeuvres_par_sujet.pdf",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-visit-context",
+    "title": {
+      "en": "Visit Context",
+      "fr": "Contexte de visite",
+      "es": "Contexto de visita",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "Paris, garden, Meudon, and learning spaces",
+      "fr": "Paris, jardin, Meudon et espaces d'apprentissage",
+      "es": "Paris, jardin, Meudon y espacios de aprendizaje",
+      "reviewNeeded": true
+    },
+    "summary": {
+      "en": "A practical-context route that keeps visitor details useful while reminding the app that live facts need a fresh official check.",
+      "fr": "Un parcours de contexte pratique qui garde les informations utiles tout en rappelant que les faits en direct exigent une verification officielle.",
+      "es": "Un recorrido de contexto practico que mantiene datos utiles y recuerda que la informacion viva exige una revision oficial.",
+      "reviewNeeded": true
+    },
+    "estimatedMinutes": 16,
+    "stopIDs": [
+      "stop-visitor-planning",
+      "stop-hotel-biron",
+      "stop-garden",
+      "stop-meudon",
+      "stop-education-studio",
+      "stop-antiques-collection"
+    ],
+    "tags": [
+      "visitor",
+      "date-sensitive"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-visit-context-s21",
+        "sourceID": "S21",
+        "label": "S21",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques",
+        "note": null
+      },
+      {
+        "id": "cite-route-visit-context-s22",
+        "sourceID": "S22",
+        "label": "S22",
+        "page": null,
+        "url": "https://www.meudon.musee-rodin.fr/preparer-sa-visite-meudon/informations-pratiques-meudon",
+        "note": null
+      },
+      {
+        "id": "cite-route-visit-context-p07",
+        "sourceID": "P07",
+        "label": "P07 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/251020%20MR%20DEPLIANT%20DE%20VISITE%20FAB_FR.pdf",
+        "note": null
+      },
+      {
+        "id": "cite-route-visit-context-p08",
+        "sourceID": "P08",
+        "label": "P08 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/2026_mr_reouverture_de_meudon_vf.pdf",
+        "note": null
+      }
+    ]
+  },
+  {
+    "id": "route-researcher",
+    "title": {
+      "en": "Researcher Path",
+      "fr": "Parcours recherche",
+      "es": "Ruta de investigacion",
+      "reviewNeeded": true
+    },
+    "subtitle": {
+      "en": "How to follow a work beyond the room",
+      "fr": "Suivre une oeuvre au-dela de la salle",
+      "es": "Seguir una obra mas alla de la sala",
+      "reviewNeeded": true
+    },
+    "summary": {
+      "en": "A route through the museum's research infrastructure: portals, dossiers, bibliography aids, drawings, archives, and edition questions.",
+      "fr": "Un parcours dans l'infrastructure de recherche du musee : portails, dossiers, bibliographie, dessins, archives et questions d'edition.",
+      "es": "Una ruta por la infraestructura de investigacion del museo: portales, expedientes, bibliografia, dibujos, archivos y ediciones.",
+      "reviewNeeded": true
+    },
+    "estimatedMinutes": 15,
+    "stopIDs": [
+      "stop-research-resources",
+      "stop-archives-research",
+      "stop-drawings",
+      "stop-bronze-editions",
+      "stop-moral-rights"
+    ],
+    "tags": [
+      "research",
+      "archives"
+    ],
+    "citations": [
+      {
+        "id": "cite-route-researcher-s09",
+        "sourceID": "S09",
+        "label": "S09",
+        "page": null,
+        "url": "https://collections.musee-rodin.fr/",
+        "note": null
+      },
+      {
+        "id": "cite-route-researcher-s11",
+        "sourceID": "S11",
+        "label": "S11",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/recherche/fonds-patrimoniaux-et-documentaires-du-musee/fonds-documentaires/dossiers-doeuvres",
+        "note": null
+      },
+      {
+        "id": "cite-route-researcher-p06",
+        "sourceID": "P06",
+        "label": "P06 p.1",
+        "page": 1,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2020-12/5261_bibliographie_des_oeuvres_par_sujet.pdf",
+        "note": null
+      },
+      {
+        "id": "cite-route-researcher-p11",
+        "sourceID": "P11",
+        "label": "P11 p.2",
+        "page": 2,
+        "url": "https://www.musee-rodin.fr/sites/default/files/2021-04/2537_d90581eccbf07a0_1.pdf",
+        "note": null
+      }
+    ]
+  }
+]

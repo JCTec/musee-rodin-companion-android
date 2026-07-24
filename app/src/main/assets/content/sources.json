@@ -1,0 +1,942 @@
+[
+  {
+    "id": "S01",
+    "kind": "web",
+    "title": {
+      "en": "Musee Rodin, heir to Rodin",
+      "fr": "Le musee Rodin, heritier",
+      "es": "Museo Rodin, heredero de Rodin",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/institution/musee-rodin-heritier",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Donation, founding, and moral-right overview.",
+      "fr": "Donation, fondation et droit moral.",
+      "es": "Donacion, fundacion y derecho moral.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S02",
+    "kind": "web",
+    "title": {
+      "en": "History of Rodin's donation",
+      "fr": "Histoire de la donation de Rodin",
+      "es": "Historia de la donacion de Rodin",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/ressources/vie-de-rodin/histoire-de-la-donation-de-rodin",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official donation-history page.",
+      "fr": "Page officielle sur l'histoire de la donation.",
+      "es": "Pagina oficial sobre la historia de la donacion.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "S03",
+    "kind": "web",
+    "title": {
+      "en": "Hotel Biron",
+      "fr": "Hotel Biron",
+      "es": "Hotel Biron",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/musee-rodin/hotel-biron",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Paris site and permanent display context.",
+      "fr": "Contexte du site parisien et du parcours permanent.",
+      "es": "Contexto del sitio de Paris y del recorrido permanente.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S04",
+    "kind": "web",
+    "title": {
+      "en": "Musee Rodin self-financing",
+      "fr": "L'autofinancement du musee Rodin",
+      "es": "Autofinanciacion del Museo Rodin",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/institution/lautofinancement-du-musee-rodin",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Institutional finance and governance context.",
+      "fr": "Contexte institutionnel de financement et de gouvernance.",
+      "es": "Contexto institucional de financiacion y gobernanza.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "S05",
+    "kind": "web",
+    "title": {
+      "en": "Original bronze editions",
+      "fr": "Les editions originales de bronze",
+      "es": "Ediciones originales de bronce",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/institution/editions-originales-de-bronze",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Museum policy for original bronze editions.",
+      "fr": "Politique du musee sur les editions originales de bronze.",
+      "es": "Politica del museo sobre ediciones originales de bronce.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S06",
+    "kind": "web",
+    "title": {
+      "en": "Sculpture garden",
+      "fr": "Jardin de sculptures",
+      "es": "Jardin de esculturas",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/musee-rodin/jardin-de-sculptures",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Garden and outdoor sculpture context.",
+      "fr": "Contexte du jardin et des sculptures en plein air.",
+      "es": "Contexto del jardin y de las esculturas al aire libre.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S07",
+    "kind": "web",
+    "title": {
+      "en": "Press",
+      "fr": "Presse",
+      "es": "Prensa",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/professionnel/presse",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official press and PDF download source.",
+      "fr": "Source officielle pour presse et telechargements PDF.",
+      "es": "Fuente oficial de prensa y descargas PDF.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "S08",
+    "kind": "web",
+    "title": {
+      "en": "Works",
+      "fr": "Oeuvres",
+      "es": "Obras",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Curated selected works and collection domains.",
+      "fr": "Selection d'oeuvres et domaines des collections.",
+      "es": "Seleccion de obras y areas de coleccion.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S09",
+    "kind": "web",
+    "title": {
+      "en": "Collections portal",
+      "fr": "Portail des collections",
+      "es": "Portal de colecciones",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://collections.musee-rodin.fr/",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official collections database.",
+      "fr": "Base officielle des collections.",
+      "es": "Base oficial de colecciones.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S10",
+    "kind": "web",
+    "title": {
+      "en": "About the collections",
+      "fr": "A propos des collections",
+      "es": "Sobre las colecciones",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/en/research/search-collections/about-collections",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Historical archives, library, and documentation overview.",
+      "fr": "Archives, bibliotheque et documentation.",
+      "es": "Archivos, biblioteca y documentacion.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S11",
+    "kind": "web",
+    "title": {
+      "en": "Object dossiers",
+      "fr": "Dossiers d'oeuvres",
+      "es": "Expedientes de obras",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/recherche/fonds-patrimoniaux-et-documentaires-du-musee/fonds-documentaires/dossiers-doeuvres",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Paper object dossiers and consultation.",
+      "fr": "Dossiers papier des oeuvres et consultation.",
+      "es": "Expedientes fisicos de obras y consulta.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S12",
+    "kind": "web",
+    "title": {
+      "en": "Research center",
+      "fr": "Centre de recherche",
+      "es": "Centro de investigacion",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/node/612",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Research center overview.",
+      "fr": "Presentation du centre de recherche.",
+      "es": "Presentacion del centro de investigacion.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S13",
+    "kind": "web",
+    "title": {
+      "en": "Documentary collections",
+      "fr": "Fonds documentaires",
+      "es": "Fondos documentales",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/recherche/fonds-patrimoniaux-et-documentaires-du-musee/fonds-documentaires",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official overview of documentary series.",
+      "fr": "Vue officielle des series documentaires.",
+      "es": "Resumen oficial de las series documentales.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "S14",
+    "kind": "web",
+    "title": {
+      "en": "Rodin: texts and research",
+      "fr": "Rodin : textes et recherches",
+      "es": "Rodin: textos e investigacion",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/recherche/centre-de-recherche/publications-scientifiques/collections-du-musee-rodin/collection-rodin-textes-et-recherches",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Scientific publications series.",
+      "fr": "Collection de publications scientifiques.",
+      "es": "Serie de publicaciones cientificas.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "S15",
+    "kind": "web",
+    "title": {
+      "en": "The Kiss",
+      "fr": "Le Baiser",
+      "es": "El beso",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/baiser",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work record.",
+      "fr": "Notice officielle de l'oeuvre.",
+      "es": "Ficha oficial de la obra.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S16",
+    "kind": "web",
+    "title": {
+      "en": "The Thinker",
+      "fr": "Le Penseur",
+      "es": "El pensador",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/penseur",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work record.",
+      "fr": "Notice officielle de l'oeuvre.",
+      "es": "Ficha oficial de la obra.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S17",
+    "kind": "web",
+    "title": {
+      "en": "The Gates of Hell",
+      "fr": "La Porte de l'Enfer",
+      "es": "La puerta del Infierno",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/porte-de-lenfer",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work record.",
+      "fr": "Notice officielle de l'oeuvre.",
+      "es": "Ficha oficial de la obra.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S18",
+    "kind": "web",
+    "title": {
+      "en": "Monument to Balzac",
+      "fr": "Le Monument a Balzac",
+      "es": "Monumento a Balzac",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-balzac",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work record.",
+      "fr": "Notice officielle de l'oeuvre.",
+      "es": "Ficha oficial de la obra.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S19",
+    "kind": "web",
+    "title": {
+      "en": "The Age of Bronze",
+      "fr": "L'Age d'Airain",
+      "es": "La edad de bronce",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lage-dairain",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work record.",
+      "fr": "Notice officielle de l'oeuvre.",
+      "es": "Ficha oficial de la obra.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S20",
+    "kind": "web",
+    "title": {
+      "en": "Abattis",
+      "fr": "Abattis",
+      "es": "Abattis",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/abattis",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work record on fragments and studio practice.",
+      "fr": "Notice officielle sur les fragments et la pratique d'atelier.",
+      "es": "Ficha oficial sobre fragmentos y practica de taller.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S21",
+    "kind": "web",
+    "title": {
+      "en": "Practical information",
+      "fr": "Informations pratiques",
+      "es": "Informacion practica",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Current Paris visitor information, date-sensitive.",
+      "fr": "Informations de visite a Paris, sensibles a la date.",
+      "es": "Informacion de visita en Paris, sensible a la fecha.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S22",
+    "kind": "web",
+    "title": {
+      "en": "Meudon practical information",
+      "fr": "Informations pratiques - Meudon",
+      "es": "Informacion practica - Meudon",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin Meudon",
+    "url": "https://www.meudon.musee-rodin.fr/preparer-sa-visite-meudon/informations-pratiques-meudon",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Seasonal Meudon visitor information.",
+      "fr": "Informations saisonnieres de visite a Meudon.",
+      "es": "Informacion estacional de visita en Meudon.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S23",
+    "kind": "web",
+    "title": {
+      "en": "Study for The Kiss",
+      "fr": "Etude pour le baiser",
+      "es": "Estudio para El beso",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/etude-pour-baiser",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Drawing work record and acquisition note.",
+      "fr": "Notice de dessin et note d'acquisition.",
+      "es": "Ficha de dibujo y nota de adquisicion.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S24",
+    "kind": "web",
+    "title": {
+      "en": "Portrait of Rodin",
+      "fr": "Portrait de Rodin",
+      "es": "Retrato de Rodin",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/portrait-de-rodin",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Camille Claudel work record.",
+      "fr": "Notice d'une oeuvre de Camille Claudel.",
+      "es": "Ficha de una obra de Camille Claudel.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S25",
+    "kind": "web",
+    "title": {
+      "en": "The Waltz",
+      "fr": "La Valse ou les Valseurs",
+      "es": "El vals",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/valse-ou-valseurs",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Camille Claudel work record.",
+      "fr": "Notice d'une oeuvre de Camille Claudel.",
+      "es": "Ficha de una obra de Camille Claudel.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S26",
+    "kind": "web",
+    "title": {
+      "en": "The Gossips",
+      "fr": "Les Causeuses ou Les Bavardes",
+      "es": "Las conversadoras",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/causeuses-ou-bavardes",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Camille Claudel work record.",
+      "fr": "Notice d'une oeuvre de Camille Claudel.",
+      "es": "Ficha de una obra de Camille Claudel.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S27",
+    "kind": "web",
+    "title": {
+      "en": "Clotho",
+      "fr": "Clotho",
+      "es": "Cloto",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/clotho",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Camille Claudel work record.",
+      "fr": "Notice d'une oeuvre de Camille Claudel.",
+      "es": "Ficha de una obra de Camille Claudel.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S28",
+    "kind": "web",
+    "title": {
+      "en": "Letter from Rodin to Camille Claudel",
+      "fr": "Lettre d'Auguste Rodin a Camille Claudel",
+      "es": "Carta de Rodin a Camille Claudel",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lettre-dauguste-rodin-camille-claudel",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Correspondence work record.",
+      "fr": "Notice de correspondance.",
+      "es": "Ficha de correspondencia.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S29",
+    "kind": "web",
+    "title": {
+      "en": "Letter from Camille Claudel to Rodin",
+      "fr": "Lettre de Camille Claudel a Auguste Rodin",
+      "es": "Carta de Camille Claudel a Rodin",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lettre-de-camille-claudel-auguste-rodin",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Correspondence work record.",
+      "fr": "Notice de correspondance.",
+      "es": "Ficha de correspondencia.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S30",
+    "kind": "web",
+    "title": {
+      "en": "Portrait of Camille Claudel",
+      "fr": "Portrait de Camille Claudel",
+      "es": "Retrato de Camille Claudel",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/portrait-de-camille-claudel",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Photograph record from Rodin's personal collections.",
+      "fr": "Notice photographique issue des collections personnelles de Rodin.",
+      "es": "Ficha fotografica de las colecciones personales de Rodin.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S31",
+    "kind": "web",
+    "title": {
+      "en": "The Gates of Hell, Meudon",
+      "fr": "La Porte de l'Enfer, Meudon",
+      "es": "La puerta del Infierno, Meudon",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin Meudon",
+    "url": "https://www.meudon.musee-rodin.fr/musee/collections/oeuvres/porte-de-lenfer-meudon",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Meudon plaster work record.",
+      "fr": "Notice du platre de Meudon.",
+      "es": "Ficha del yeso de Meudon.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S32",
+    "kind": "web",
+    "title": {
+      "en": "Monument to Balzac, Meudon",
+      "fr": "Monument a Balzac, Meudon",
+      "es": "Monumento a Balzac, Meudon",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-balzac-meudon",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Meudon plaster work record.",
+      "fr": "Notice du platre de Meudon.",
+      "es": "Ficha del yeso de Meudon.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S33",
+    "kind": "web",
+    "title": {
+      "en": "Monument to the Burghers of Calais, Meudon",
+      "fr": "Monument aux Bourgeois de Calais, Meudon",
+      "es": "Monumento a los burgueses de Calais, Meudon",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/monument-aux-bourgeois-de-calais-meudon",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Meudon plaster work record.",
+      "fr": "Notice du platre de Meudon.",
+      "es": "Ficha del yeso de Meudon.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S34",
+    "kind": "web",
+    "title": {
+      "en": "Study of a Dressing Gown for Balzac",
+      "fr": "Etude de robe de chambre pour Balzac",
+      "es": "Estudio de bata para Balzac",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/etude-de-robe-de-chambre-pour-balzac",
+    "accessDate": "2026-07-23",
+    "localFilename": null,
+    "notes": {
+      "en": "Studio process object for Balzac.",
+      "fr": "Objet de processus d'atelier pour Balzac.",
+      "es": "Objeto de proceso de taller para Balzac.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "P01",
+    "kind": "pdf",
+    "title": {
+      "en": "2024 activity report",
+      "fr": "Rapport d'activites 2024",
+      "es": "Informe de actividades 2024",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2025-09/250910_mr_ra2024_complete-bd.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "musee-rodin-annual-report-2024.pdf",
+    "notes": {
+      "en": "Official 2024 annual activity report.",
+      "fr": "Rapport officiel d'activites 2024.",
+      "es": "Informe oficial de actividades 2024.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P02",
+    "kind": "pdf",
+    "title": {
+      "en": "2023 activity report",
+      "fr": "Rapport d'activites 2023",
+      "es": "Informe de actividades 2023",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2024-07/240613_mr_ra2024_ensemble_planche_min_0.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "musee-rodin-annual-report-2023.pdf",
+    "notes": {
+      "en": "Official 2023 annual activity report.",
+      "fr": "Rapport officiel d'activites 2023.",
+      "es": "Informe oficial de actividades 2023.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P03",
+    "kind": "pdf",
+    "title": {
+      "en": "2022 activity report",
+      "fr": "Rapport d'activites 2022",
+      "es": "Informe de actividades 2022",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2023-07/mr_ra2022.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "musee-rodin-annual-report-2022.pdf",
+    "notes": {
+      "en": "Official 2022 annual activity report.",
+      "fr": "Rapport officiel d'activites 2022.",
+      "es": "Informe oficial de actividades 2022.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P04",
+    "kind": "pdf",
+    "title": {
+      "en": "Musee Rodin institutional presentation, French",
+      "fr": "Presentation institutionnelle du musee Rodin, francais",
+      "es": "Presentacion institucional del Museo Rodin, frances",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2026-06/cp_institutionnel_2026_fr_0.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "musee-rodin-presentation-2026-fr.pdf",
+    "notes": {
+      "en": "Official French institutional press release.",
+      "fr": "Communique institutionnel officiel en francais.",
+      "es": "Comunicado institucional oficial en frances.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P05",
+    "kind": "pdf",
+    "title": {
+      "en": "Musee Rodin institutional presentation, English",
+      "fr": "Presentation institutionnelle du musee Rodin, anglais",
+      "es": "Presentacion institucional del Museo Rodin, ingles",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2026-06/cp_institutionnel_2026_en.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "musee-rodin-presentation-2026-en.pdf",
+    "notes": {
+      "en": "Official English institutional press release.",
+      "fr": "Communique institutionnel officiel en anglais.",
+      "es": "Comunicado institucional oficial en ingles.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P06",
+    "kind": "pdf",
+    "title": {
+      "en": "Bibliography of works by subject",
+      "fr": "Bibliographie des oeuvres par sujet",
+      "es": "Bibliografia de obras por tema",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2020-12/5261_bibliographie_des_oeuvres_par_sujet.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "bibliographie-des-oeuvres-par-sujet.pdf",
+    "notes": {
+      "en": "Finding aid for bibliography by Rodin work subject.",
+      "fr": "Instrument de recherche pour la bibliographie par sujet d'oeuvre.",
+      "es": "Instrumento de busqueda para bibliografia por tema de obra.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P07",
+    "kind": "pdf",
+    "title": {
+      "en": "Musee Rodin Paris visitor leaflet",
+      "fr": "Depliant de visite Musee Rodin Paris",
+      "es": "Folleto de visita Museo Rodin Paris",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/251020%20MR%20DEPLIANT%20DE%20VISITE%20FAB_FR.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "musee-rodin-visitor-leaflet-2026-fr.pdf",
+    "notes": {
+      "en": "Official visitor leaflet.",
+      "fr": "Depliant officiel de visite.",
+      "es": "Folleto oficial de visita.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "P08",
+    "kind": "pdf",
+    "title": {
+      "en": "Meudon reopening press release",
+      "fr": "Communique de reouverture de Meudon",
+      "es": "Comunicado de reapertura de Meudon",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/2026_mr_reouverture_de_meudon_vf.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "musee-rodin-meudon-reopening-2026-fr.pdf",
+    "notes": {
+      "en": "Official French press release for 2026 reopening of the Meudon site.",
+      "fr": "Communique officiel en francais pour la reouverture 2026 du site de Meudon.",
+      "es": "Comunicado oficial en frances para la reapertura 2026 del sitio de Meudon.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P09",
+    "kind": "pdf",
+    "title": {
+      "en": "Rodin. Free Drawings press kit",
+      "fr": "Rodin. Dessins libres dossier de presse",
+      "es": "Rodin. Dibujos libres dossier de prensa",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2025-12/mr_rodin-dessins-libres_dp_vf_0.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "rodin-dessins-libres-press-kit-2025-fr.pdf",
+    "notes": {
+      "en": "Official exhibition press kit on drawings.",
+      "fr": "Dossier de presse officiel sur les dessins.",
+      "es": "Dossier de prensa oficial sobre dibujos.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "P10",
+    "kind": "pdf",
+    "title": {
+      "en": "Studio Rodin press kit",
+      "fr": "Le Studio Rodin dossier de presse",
+      "es": "Studio Rodin dossier de prensa",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2026-04/260427_mr_sr_dossier_de_presse.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "studio-rodin-press-kit-2026-fr.pdf",
+    "notes": {
+      "en": "Official education and interpretation press kit.",
+      "fr": "Dossier officiel d'education et d'interpretation.",
+      "es": "Dossier oficial de educacion e interpretacion.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "P11",
+    "kind": "pdf",
+    "title": {
+      "en": "Respect for moral right",
+      "fr": "Respect du droit moral",
+      "es": "Respeto del derecho moral",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2021-04/2537_d90581eccbf07a0_1.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "respect-du-droit-moral-2021-fr.pdf",
+    "notes": {
+      "en": "Official document on Rodin moral right and reproductions.",
+      "fr": "Document officiel sur le droit moral de Rodin et les reproductions.",
+      "es": "Documento oficial sobre el derecho moral de Rodin y las reproducciones.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P12",
+    "kind": "pdf",
+    "title": {
+      "en": "Atelier Rodin 2026 press release",
+      "fr": "Communique Atelier Rodin 2026",
+      "es": "Comunicado Atelier Rodin 2026",
+      "reviewNeeded": true
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/mr_cp_atelier_rodin_2026.pdf",
+    "accessDate": "2026-07-23",
+    "localFilename": "atelier-rodin-2026-fr.pdf",
+    "notes": {
+      "en": "Official press release for Atelier Rodin 2026.",
+      "fr": "Communique officiel pour l'Atelier Rodin 2026.",
+      "es": "Comunicado oficial para Atelier Rodin 2026.",
+      "reviewNeeded": true
+    }
+  },
+  {
+    "id": "P13",
+    "kind": "pdf",
+    "title": {
+      "en": "Musee Rodin historical summary catalogue",
+      "fr": "Catalogue sommaire historique du musee Rodin",
+      "es": "Catalogo sumario historico del Museo Rodin",
+      "reviewNeeded": true
+    },
+    "publisher": "Internet Archive",
+    "url": "https://archive.org/details/museerodincatalo00rodi",
+    "accessDate": "2026-07-23",
+    "localFilename": "internet-archive-musee-rodin-catalogue-sommaire-hotel-biron.pdf",
+    "notes": {
+      "en": "Historical catalogue from Internet Archive; use for historical context only.",
+      "fr": "Catalogue historique provenant d'Internet Archive ; a utiliser comme contexte historique seulement.",
+      "es": "Catalogo historico de Internet Archive; usar solo como contexto historico.",
+      "reviewNeeded": true
+    }
+  }
+]

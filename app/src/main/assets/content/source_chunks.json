@@ -1,0 +1,702 @@
+[
+  {
+    "id": "chunk-hotel-biron",
+    "sourceID": "S03",
+    "page": null,
+    "sectionHint": {
+      "en": "Site context",
+      "fr": "Contexte du site",
+      "es": "Contexto del sitio",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "The Paris museum occupies the Hotel Biron, where Rodin rented rooms in 1908 and where the public museum opened in 1919.",
+      "fr": "Le musee parisien occupe l'Hotel Biron, ou Rodin loua des pieces en 1908 et ou le musee public ouvrit en 1919.",
+      "es": "El museo parisino ocupa el Hotel Biron, donde Rodin alquilo habitaciones en 1908 y donde el museo publico abrio en 1919.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-hotel-biron",
+      "sourceID": "S03",
+      "label": "S03",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/musee/musee-rodin/hotel-biron",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-garden",
+    "sourceID": "S06",
+    "page": null,
+    "sectionHint": {
+      "en": "Garden",
+      "fr": "Jardin",
+      "es": "Jardin",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "The sculpture garden is a three-hectare interpretive space with major outdoor works such as The Thinker, The Gates of Hell, and Balzac.",
+      "fr": "Le jardin de sculptures est un espace d'interpretation de trois hectares avec des oeuvres majeures comme Le Penseur, La Porte de l'Enfer et Balzac.",
+      "es": "El jardin de esculturas es un espacio interpretativo de tres hectareas con obras principales como El pensador, La puerta del Infierno y Balzac.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-garden",
+      "sourceID": "S06",
+      "label": "S06",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/musee/musee-rodin/jardin-de-sculptures",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-meudon",
+    "sourceID": "S22",
+    "page": null,
+    "sectionHint": {
+      "en": "Meudon",
+      "fr": "Meudon",
+      "es": "Meudon",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "Meudon preserves the house, studio context, and plaster gallery that are central to studying Rodin's working process.",
+      "fr": "Meudon conserve la maison, le contexte d'atelier et la galerie des platres, essentiels pour etudier le processus de Rodin.",
+      "es": "Meudon conserva la casa, el contexto de taller y la galeria de yesos, esenciales para estudiar el proceso de Rodin.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-meudon",
+      "sourceID": "S22",
+      "label": "S22",
+      "page": null,
+      "url": "https://www.meudon.musee-rodin.fr/preparer-sa-visite-meudon/informations-pratiques-meudon",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-gates",
+    "sourceID": "S17",
+    "page": null,
+    "sectionHint": {
+      "en": "The Gates of Hell",
+      "fr": "La Porte de l'Enfer",
+      "es": "La puerta del Infierno",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "The Gates of Hell became a central matrix for more than two hundred figures and groups in Rodin's work.",
+      "fr": "La Porte de l'Enfer devint une matrice centrale pour plus de deux cents figures et groupes dans l'oeuvre de Rodin.",
+      "es": "La puerta del Infierno se convirtio en matriz central de mas de doscientas figuras y grupos en la obra de Rodin.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-gates",
+      "sourceID": "S17",
+      "label": "S17",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/porte-de-lenfer",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-bronze",
+    "sourceID": "S05",
+    "page": null,
+    "sectionHint": {
+      "en": "Bronze editions",
+      "fr": "Editions de bronze",
+      "es": "Ediciones de bronce",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "The museum manages Rodin's moral right and validates original bronze editions through historical and archival study.",
+      "fr": "Le musee gere le droit moral de Rodin et valide les editions originales de bronze par l'etude historique et archivistique.",
+      "es": "El museo gestiona el derecho moral de Rodin y valida ediciones originales de bronce mediante estudio historico y archivistico.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-bronze",
+      "sourceID": "S05",
+      "label": "S05",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/musee/institution/editions-originales-de-bronze",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-claudel",
+    "sourceID": "S24",
+    "page": null,
+    "sectionHint": {
+      "en": "Camille Claudel",
+      "fr": "Camille Claudel",
+      "es": "Camille Claudel",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "Camille Claudel is represented through sculpture, correspondence, and photographs, and her works should be read as a distinct artistic practice.",
+      "fr": "Camille Claudel est representee par sculpture, correspondance et photographie, et ses oeuvres doivent etre lues comme une pratique artistique distincte.",
+      "es": "Camille Claudel esta representada por escultura, correspondencia y fotografia, y sus obras deben leerse como una practica artistica propia.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-claudel",
+      "sourceID": "S24",
+      "label": "S24",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/portrait-de-rodin",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-archives",
+    "sourceID": "S11",
+    "page": null,
+    "sectionHint": {
+      "en": "Object dossiers",
+      "fr": "Dossiers d'oeuvres",
+      "es": "Expedientes de obras",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "Paper object dossiers can include acquisition history, research, exhibition history, conservation state, iconography, and comparisons.",
+      "fr": "Les dossiers d'oeuvres papier peuvent inclure historique d'acquisition, recherche, expositions, etat de conservation, iconographie et comparaisons.",
+      "es": "Los expedientes fisicos pueden incluir historia de adquisicion, investigacion, exposiciones, estado de conservacion, iconografia y comparaciones.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-archives",
+      "sourceID": "S11",
+      "label": "S11",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/recherche/fonds-patrimoniaux-et-documentaires-du-musee/fonds-documentaires/dossiers-doeuvres",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-drawings",
+    "sourceID": "P09",
+    "page": 1,
+    "sectionHint": {
+      "en": "Drawings",
+      "fr": "Dessins",
+      "es": "Dibujos",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "Rodin's drawings are treated as an important body of work and a resource for understanding his free, experimental practice.",
+      "fr": "Les dessins de Rodin sont traites comme un corpus important et une ressource pour comprendre sa pratique libre et experimentale.",
+      "es": "Los dibujos de Rodin se tratan como un corpus importante y un recurso para comprender su practica libre y experimental.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-drawings",
+      "sourceID": "P09",
+      "label": "P09 p.1",
+      "page": 1,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2025-12/mr_rodin-dessins-libres_dp_vf_0.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-studio",
+    "sourceID": "P10",
+    "page": 1,
+    "sectionHint": {
+      "en": "Studio Rodin",
+      "fr": "Studio Rodin",
+      "es": "Studio Rodin",
+      "reviewNeeded": false
+    },
+    "text": {
+      "en": "Studio Rodin materials support education and interpretation by helping visitors understand practice, process, and making.",
+      "fr": "Les ressources du Studio Rodin soutiennent education et interpretation en aidant les visiteurs a comprendre pratique, processus et fabrication.",
+      "es": "Los materiales de Studio Rodin apoyan educacion e interpretacion ayudando a comprender practica, proceso y produccion.",
+      "reviewNeeded": false
+    },
+    "citation": {
+      "id": "cite-chunk-studio",
+      "sourceID": "P10",
+      "label": "P10 p.1",
+      "page": 1,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2026-04/260427_mr_sr_dossier_de_presse.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-donation-founding",
+    "sourceID": "S01",
+    "page": null,
+    "sectionHint": {
+      "en": "Donation and founding",
+      "fr": "Donation et fondation",
+      "es": "Donacion y fundacion",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "Rodin's 1916 donation to the French state is the founding act behind the museum, its collections, and its responsibility for the artist's legacy.",
+      "fr": "La donation de Rodin a l'Etat francais en 1916 est l'acte fondateur du musee, de ses collections et de sa responsabilite envers l'heritage de l'artiste.",
+      "es": "La donacion de Rodin al Estado frances en 1916 es el acto fundador del museo, sus colecciones y su responsabilidad por el legado del artista.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-donation-founding",
+      "sourceID": "S01",
+      "label": "S01",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/musee/institution/musee-rodin-heritier",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-donation-history",
+    "sourceID": "S02",
+    "page": null,
+    "sectionHint": {
+      "en": "Donation history",
+      "fr": "Histoire de la donation",
+      "es": "Historia de la donacion",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The donation-history source supports treating the Hotel Biron, Rodin's works, property, and related rights as a single institutional origin story.",
+      "fr": "La source sur la donation permet de lire l'Hotel Biron, les oeuvres, les biens et les droits associes de Rodin comme une origine institutionnelle commune.",
+      "es": "La fuente sobre la donacion permite leer el Hotel Biron, las obras, bienes y derechos de Rodin como un origen institucional comun.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-donation-history",
+      "sourceID": "S02",
+      "label": "S02",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/ressources/vie-de-rodin/histoire-de-la-donation-de-rodin",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-self-financing",
+    "sourceID": "S04",
+    "page": null,
+    "sectionHint": {
+      "en": "Self-financing",
+      "fr": "Autofinancement",
+      "es": "Autofinanciacion",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The museum is described in the research package as a national public museum with an unusual self-financing model connected in part to original bronze editions.",
+      "fr": "Le musee est decrit dans le dossier de recherche comme un musee public national avec un modele rare d'autofinancement lie en partie aux editions originales de bronze.",
+      "es": "El museo se describe en el paquete de investigacion como un museo publico nacional con un modelo raro de autofinanciacion ligado en parte a ediciones originales de bronce.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-self-financing",
+      "sourceID": "S04",
+      "label": "S04",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/musee/institution/lautofinancement-du-musee-rodin",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-collections-archives",
+    "sourceID": "S10",
+    "page": null,
+    "sectionHint": {
+      "en": "Collections and archives",
+      "fr": "Collections et archives",
+      "es": "Colecciones y archivos",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The collection context includes archives, library holdings, documentation files, and manuscript material as well as sculptures, drawings, photographs, and letters.",
+      "fr": "Le contexte des collections comprend archives, bibliotheque, dossiers documentaires et manuscrits, en plus des sculptures, dessins, photographies et lettres.",
+      "es": "El contexto de las colecciones incluye archivos, biblioteca, expedientes documentales y manuscritos, ademas de esculturas, dibujos, fotografias y cartas.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-collections-archives",
+      "sourceID": "S10",
+      "label": "S10",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/en/research/search-collections/about-collections",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-fonds-documentaires",
+    "sourceID": "S13",
+    "page": null,
+    "sectionHint": {
+      "en": "Documentary series",
+      "fr": "Series documentaires",
+      "es": "Series documentales",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The fonds documentaires source identifies structured documentary series that researchers should use alongside the public collections portal.",
+      "fr": "La source sur les fonds documentaires identifie des series documentaires structurees a utiliser avec le portail public des collections.",
+      "es": "La fuente sobre fondos documentales identifica series documentales estructuradas que deben usarse con el portal publico de colecciones.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-fonds-documentaires",
+      "sourceID": "S13",
+      "label": "S13",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/recherche/fonds-patrimoniaux-et-documentaires-du-musee/fonds-documentaires",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-scientific-publications",
+    "sourceID": "S14",
+    "page": null,
+    "sectionHint": {
+      "en": "Scientific publications",
+      "fr": "Publications scientifiques",
+      "es": "Publicaciones cientificas",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The museum's scientific publication series is a deeper research layer for historiography beyond object-level visitor summaries.",
+      "fr": "La collection de publications scientifiques du musee est une couche de recherche plus approfondie pour l'historiographie, au-dela des resumes de visite.",
+      "es": "La serie de publicaciones cientificas del museo es una capa de investigacion mas profunda para historiografia, mas alla de resumenes de visita.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-scientific-publications",
+      "sourceID": "S14",
+      "label": "S14",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/recherche/centre-de-recherche/publications-scientifiques/collections-du-musee-rodin/collection-rodin-textes-et-recherches",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-practical-paris",
+    "sourceID": "S21",
+    "page": null,
+    "sectionHint": {
+      "en": "Paris practical information",
+      "fr": "Informations pratiques Paris",
+      "es": "Informacion practica Paris",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The Paris practical-information source is date-sensitive; hours, closure notices, access limits, and prices should be rechecked before display as current visitor facts.",
+      "fr": "La source d'informations pratiques de Paris est sensible a la date ; horaires, fermetures, limites d'acces et tarifs doivent etre reverifies avant affichage comme informations actuelles.",
+      "es": "La fuente de informacion practica de Paris es sensible a la fecha; horarios, cierres, limites de acceso y precios deben revisarse antes de mostrarse como datos actuales.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-practical-paris",
+      "sourceID": "S21",
+      "label": "S21",
+      "page": null,
+      "url": "https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-annual-report-2024",
+    "sourceID": "P01",
+    "page": 3,
+    "sectionHint": {
+      "en": "2024 annual report",
+      "fr": "Rapport annuel 2024",
+      "es": "Informe anual 2024",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The 2024 report editorial frames the museum's singular public role through Rodin's 1916 donation, the legacy of works, archives, collections, and authorial rights.",
+      "fr": "L'editorial du rapport 2024 presente le role public singulier du musee par la donation de 1916, les oeuvres, archives, collections et droits d'auteur legues par Rodin.",
+      "es": "El editorial del informe 2024 presenta el papel publico singular del museo a traves de la donacion de 1916, obras, archivos, colecciones y derechos de autor legados por Rodin.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-annual-report-2024",
+      "sourceID": "P01",
+      "label": "P01 p.3",
+      "page": 3,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2025-09/250910_mr_ra2024_complete-bd.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-annual-report-2023",
+    "sourceID": "P02",
+    "page": 7,
+    "sectionHint": {
+      "en": "2023 annual report",
+      "fr": "Rapport annuel 2023",
+      "es": "Informe anual 2023",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The 2023 report table of contents groups conservation, research, defense of Rodin's work, moral right, and public diversification as institutional priorities.",
+      "fr": "Le sommaire du rapport 2023 regroupe conservation, recherche, defense de l'oeuvre de Rodin, droit moral et diversification des publics parmi les priorites institutionnelles.",
+      "es": "El indice del informe 2023 agrupa conservacion, investigacion, defensa de la obra de Rodin, derecho moral y diversificacion de publicos como prioridades institucionales.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-annual-report-2023",
+      "sourceID": "P02",
+      "label": "P02 p.7",
+      "page": 7,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2024-07/240613_mr_ra2024_ensemble_planche_min_0.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-annual-report-2022",
+    "sourceID": "P03",
+    "page": 7,
+    "sectionHint": {
+      "en": "2022 annual report",
+      "fr": "Rapport annuel 2022",
+      "es": "Informe anual 2022",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The 2022 report table of contents points to collections, research, moral-right responsibilities, audience work, and the Atelier Rodin as reportable institutional activity.",
+      "fr": "Le sommaire du rapport 2022 signale collections, recherche, droit moral, publics et Atelier Rodin comme activites institutionnelles suivies.",
+      "es": "El indice del informe 2022 senala colecciones, investigacion, derecho moral, publicos y Atelier Rodin como actividad institucional reportada.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-annual-report-2022",
+      "sourceID": "P03",
+      "label": "P03 p.7",
+      "page": 7,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2023-07/mr_ra2022.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-institution-presentation-en",
+    "sourceID": "P05",
+    "page": 1,
+    "sectionHint": {
+      "en": "Institutional presentation",
+      "fr": "Presentation institutionnelle",
+      "es": "Presentacion institucional",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The 2026 English institutional release provides current public-visitor basics for the Paris museum, including address, opening pattern, last entry, and full-price ticket.",
+      "fr": "Le communique institutionnel anglais de 2026 fournit des informations publiques actuelles pour Paris, dont adresse, horaires, derniere entree et plein tarif.",
+      "es": "El comunicado institucional ingles de 2026 aporta datos publicos actuales para Paris, incluidos direccion, horarios, ultima entrada y tarifa completa.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-institution-presentation-en",
+      "sourceID": "P05",
+      "label": "P05 p.1",
+      "page": 1,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2026-06/cp_institutionnel_2026_en.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-bibliography-finding-aid",
+    "sourceID": "P06",
+    "page": 1,
+    "sectionHint": {
+      "en": "Bibliography finding aid",
+      "fr": "Instrument bibliographique",
+      "es": "Instrumento bibliografico",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The bibliography-by-subject PDF is a finding aid organized by box number and subject, not a complete narrative bibliography.",
+      "fr": "Le PDF de bibliographie par sujet est un instrument de recherche organise par numero de boite et sujet, non une bibliographie narrative complete.",
+      "es": "El PDF de bibliografia por tema es un instrumento de busqueda organizado por numero de caja y tema, no una bibliografia narrativa completa.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-bibliography-finding-aid",
+      "sourceID": "P06",
+      "label": "P06 p.1",
+      "page": 1,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2020-12/5261_bibliographie_des_oeuvres_par_sujet.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-visitor-leaflet",
+    "sourceID": "P07",
+    "page": 1,
+    "sectionHint": {
+      "en": "Visitor leaflet",
+      "fr": "Depliant de visite",
+      "es": "Folleto de visita",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The 2026 visitor leaflet supports a practical route through the Paris site and mentions the garden, accessibility services, audioguide, and Meudon context.",
+      "fr": "Le depliant de visite 2026 soutient un parcours pratique du site parisien et mentionne jardin, accessibilite, audioguide et contexte de Meudon.",
+      "es": "El folleto de visita 2026 apoya un recorrido practico por el sitio de Paris y menciona jardin, accesibilidad, audioguia y contexto de Meudon.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-visitor-leaflet",
+      "sourceID": "P07",
+      "label": "P07 p.1",
+      "page": 1,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/251020%20MR%20DEPLIANT%20DE%20VISITE%20FAB_FR.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-meudon-reopening",
+    "sourceID": "P08",
+    "page": 1,
+    "sectionHint": {
+      "en": "Meudon reopening",
+      "fr": "Reouverture de Meudon",
+      "es": "Reapertura de Meudon",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The 2026 Meudon reopening release presents the site as a house-studio and plaster-gallery visit; dates and visitor conditions are seasonal.",
+      "fr": "Le communique de reouverture 2026 presente Meudon comme visite de maison-atelier et galerie des platres ; dates et conditions de visite sont saisonnieres.",
+      "es": "El comunicado de reapertura 2026 presenta Meudon como visita de casa-taller y galeria de yesos; fechas y condiciones son estacionales.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-meudon-reopening",
+      "sourceID": "P08",
+      "label": "P08 p.1",
+      "page": 1,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/2026_mr_reouverture_de_meudon_vf.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-drawings-assemblage",
+    "sourceID": "P09",
+    "page": 6,
+    "sectionHint": {
+      "en": "Drawing assemblages",
+      "fr": "Assemblages de dessins",
+      "es": "Ensamblajes de dibujos",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The drawings press kit describes Rodin's late-1890s practice of drawing quickly, correcting, tracing, cutting, reversing, coloring, and assembling figures.",
+      "fr": "Le dossier de presse des dessins decrit la pratique de Rodin a la fin des annees 1890 : dessiner vite, corriger, calquer, decouper, inverser, colorer et assembler.",
+      "es": "El dosier de dibujos describe la practica de Rodin a fines de la decada de 1890: dibujar rapido, corregir, calcar, recortar, invertir, colorear y ensamblar.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-drawings-assemblage",
+      "sourceID": "P09",
+      "label": "P09 p.6",
+      "page": 6,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2025-12/mr_rodin-dessins-libres_dp_vf_0.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-studio-rodin-modules",
+    "sourceID": "P10",
+    "page": 5,
+    "sectionHint": {
+      "en": "Studio Rodin modules",
+      "fr": "Modules Studio Rodin",
+      "es": "Modulos Studio Rodin",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The Studio Rodin press kit describes a traveling interpretation system with thematic modules using reproductions of works by Rodin and Camille Claudel.",
+      "fr": "Le dossier Studio Rodin decrit un dispositif itinerant d'interpretation avec modules thematiques utilisant des reproductions d'oeuvres de Rodin et Camille Claudel.",
+      "es": "El dosier Studio Rodin describe un sistema itinerante de interpretacion con modulos tematicos que usan reproducciones de obras de Rodin y Camille Claudel.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-studio-rodin-modules",
+      "sourceID": "P10",
+      "label": "P10 p.5",
+      "page": 5,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2026-04/260427_mr_sr_dossier_de_presse.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-moral-right",
+    "sourceID": "P11",
+    "page": 2,
+    "sectionHint": {
+      "en": "Moral right",
+      "fr": "Droit moral",
+      "es": "Derecho moral",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The moral-right document presents one museum mission as protecting Rodin's moral right and warning collectors about authenticity and reproductions.",
+      "fr": "Le document sur le droit moral presente l'une des missions du musee comme la protection du droit moral de Rodin et l'avertissement sur authenticite et reproductions.",
+      "es": "El documento de derecho moral presenta una mision del museo como proteger el derecho moral de Rodin y advertir sobre autenticidad y reproducciones.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-moral-right",
+      "sourceID": "P11",
+      "label": "P11 p.2",
+      "page": 2,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2021-04/2537_d90581eccbf07a0_1.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-atelier-rodin-2026",
+    "sourceID": "P12",
+    "page": 1,
+    "sectionHint": {
+      "en": "Atelier Rodin",
+      "fr": "Atelier Rodin",
+      "es": "Atelier Rodin",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The Atelier Rodin 2026 release presents the family-oriented workshop as a hands-on way to play, create, and discover sculpture at the Paris museum.",
+      "fr": "Le communique Atelier Rodin 2026 presente l'atelier familial comme une maniere pratique de jouer, creer et decouvrir la sculpture au musee parisien.",
+      "es": "El comunicado Atelier Rodin 2026 presenta el taller familiar como una manera practica de jugar, crear y descubrir la escultura en el museo de Paris.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-atelier-rodin-2026",
+      "sourceID": "P12",
+      "label": "P12 p.1",
+      "page": 1,
+      "url": "https://www.musee-rodin.fr/sites/default/files/2026-03/mr_cp_atelier_rodin_2026.pdf",
+      "note": null
+    }
+  },
+  {
+    "id": "chunk-historical-catalogue",
+    "sourceID": "P13",
+    "page": 1,
+    "sectionHint": {
+      "en": "Historical catalogue",
+      "fr": "Catalogue historique",
+      "es": "Catalogo historico",
+      "reviewNeeded": true
+    },
+    "text": {
+      "en": "The historical catalogue is useful for legacy context but should not be used alone as evidence for current collection location, state, or interpretation.",
+      "fr": "Le catalogue historique est utile comme contexte ancien, mais ne doit pas servir seul de preuve pour localisation, etat ou interpretation actuels.",
+      "es": "El catalogo historico es util como contexto antiguo, pero no debe usarse solo como prueba de ubicacion, estado o interpretacion actuales.",
+      "reviewNeeded": true
+    },
+    "citation": {
+      "id": "cite-chunk-historical-catalogue",
+      "sourceID": "P13",
+      "label": "P13 p.1",
+      "page": 1,
+      "url": "https://archive.org/details/museerodincatalo00rodi",
+      "note": null
+    }
+  }
+]
