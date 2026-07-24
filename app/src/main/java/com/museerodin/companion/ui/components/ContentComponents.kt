@@ -1,7 +1,9 @@
 package com.museerodin.companion.ui.components
 
 import android.content.Intent
+import android.graphics.BitmapFactory
 import android.net.Uri
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -11,6 +13,7 @@ import androidx.compose.foundation.layout.ExperimentalLayoutApi
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
@@ -42,11 +45,15 @@ import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.produceState
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.ImageBitmap
+import androidx.compose.ui.graphics.asImageBitmap
 import androidx.compose.ui.graphics.vector.ImageVector
+import androidx.compose.ui.layout.ContentScale
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.semantics.Role
@@ -68,6 +75,8 @@ import com.museerodin.companion.content.Work
 import com.museerodin.companion.narration.NarrationController
 import com.museerodin.companion.ui.A11yTags
 import com.museerodin.companion.user.PlaybackState
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import kotlin.math.absoluteValue
 
 @Composable
@@ -138,28 +147,59 @@ fun WorkArtwork(
     )
     val color = colors[work.id.hashCode().absoluteValue % colors.size]
     val title = work.title.value(language)
+    val image = rememberWorkImageBitmap("work-images/${work.id}.jpg")
     Box(
         modifier = modifier
             .then(if (hero) Modifier.fillMaxWidth().height(260.dp) else Modifier.size(56.dp))
             .clip(RoundedCornerShape(8.dp))
             .background(color.copy(alpha = if (hero) 0.24f else 0.18f))
             .testTag("work.image.${work.id}")
-            .semantics { contentDescription = "Artwork placeholder for $title. Image slot ${work.id}" },
+            .semantics {
+                contentDescription = if (image != null) {
+                    "Artwork image for $title"
+                } else {
+                    "Artwork placeholder for $title. Image slot ${work.id}"
+                }
+            },
         contentAlignment = Alignment.Center,
     ) {
-        Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(4.dp)) {
-            Icon(
-                Icons.Filled.Image,
+        if (image != null) {
+            Image(
+                bitmap = image,
                 contentDescription = null,
-                tint = color,
-                modifier = Modifier.size(if (hero) 42.dp else 22.dp),
+                modifier = Modifier.fillMaxSize(),
+                contentScale = ContentScale.Crop,
             )
-            if (hero) {
-                Text(work.id, style = MaterialTheme.typography.labelMedium, fontFamily = FontFamily.Monospace, color = color)
-                Text("Image slot", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+        } else {
+            Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(4.dp)) {
+                Icon(
+                    Icons.Filled.Image,
+                    contentDescription = null,
+                    tint = color,
+                    modifier = Modifier.size(if (hero) 42.dp else 22.dp),
+                )
+                if (hero) {
+                    Text(work.id, style = MaterialTheme.typography.labelMedium, fontFamily = FontFamily.Monospace, color = color)
+                    Text("Image slot", style = MaterialTheme.typography.labelSmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                }
             }
         }
     }
+}
+
+@Composable
+private fun rememberWorkImageBitmap(assetPath: String): ImageBitmap? {
+    val context = LocalContext.current
+    val image by produceState<ImageBitmap?>(null, assetPath, context) {
+        value = withContext(Dispatchers.IO) {
+            runCatching {
+                context.assets.open(assetPath).use { input ->
+                    BitmapFactory.decodeStream(input)?.asImageBitmap()
+                }
+            }.getOrNull()
+        }
+    }
+    return image
 }
 
 @Composable

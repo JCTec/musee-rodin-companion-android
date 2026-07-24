@@ -64,5 +64,17 @@ class ContentDecodingTest {
             assertNotNull("Missing linked content for ${stop.id}", resolved)
         }
     }
-}
 
+    @Test
+    fun workImageAssetsMatchWorkIDs() {
+        val imageDirectory = File("src/main/assets/work-images")
+        val expected = repo.works.map { "${it.id}.jpg" }.toSet()
+        val actual = imageDirectory.listFiles()
+            ?.filter { it.isFile && it.extension == "jpg" }
+            ?.map { it.name }
+            ?.toSet()
+            .orEmpty()
+
+        assertEquals(expected, actual)
+    }
+}
