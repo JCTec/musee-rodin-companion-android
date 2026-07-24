@@ -7,7 +7,7 @@ Personal Android clone of the iOS Musee Rodin Companion app.
 - Single Activity, Jetpack Compose Material 3 only.
 - Five top-level destinations: Places, Works, Paths, Search, Notes.
 - Compact screens use bottom navigation; expanded screens use a navigation rail.
-- Read-only museum content is bundled as JSON assets copied unchanged from `../ios/MuseeRodinCompanion/Resources/Content`.
+- Read-only museum content is bundled as JSON assets generated from `../shared-assets/content`.
 - Local user state is stored separately with Room: notes, favorites, seen works, route progress, and playback progress.
 - Read-aloud uses Android `TextToSpeech`; the app does not create, bundle, download, cache, or generate audio files.
 - Work imagery uses deterministic work-ID placeholders. Downloaded work images are intentionally not bundled in this phase.
@@ -61,6 +61,20 @@ gradle wrapper --gradle-version 9.6.1 --distribution-type bin
 Android Studio can also import the project and generate the wrapper jar.
 
 ## Commands
+
+Sync bundled app content from the workspace asset package:
+
+```sh
+cd ..
+python3 tools/sync_app_assets.py --target android --write
+```
+
+Sync both platform apps from the same package:
+
+```sh
+cd ..
+python3 tools/sync_app_assets.py --target all --write
+```
 
 Build debug APK:
 
