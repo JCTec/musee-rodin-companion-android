@@ -480,9 +480,9 @@
     "artist": "Auguste Rodin",
     "dateText": "1897",
     "material": {
-      "en": "Plaster from lost-wax mold process",
-      "fr": "Platre issu du procede de moulage a cire perdue",
-      "es": "Yeso del proceso de molde a la cera perdida",
+      "en": "Plaster, cast from a waste mold and coated with plaster",
+      "fr": "Platre, epreuve issue d'un moule a creux perdu et enduite de platre",
+      "es": "Yeso, prueba obtenida de un molde perdido y recubierta de yeso",
       "reviewNeeded": false
     },
     "inventoryNumber": "S.00146",
@@ -1045,5 +1045,753 @@
       "topic-archives"
     ],
     "placeholderSymbol": "photo"
+  },
+  {
+    "id": "work-homme-qui-marche",
+    "title": {
+      "en": "The Walking Man",
+      "fr": "L'Homme qui marche",
+      "es": "El Hombre que camina",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1907",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.00998",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 17",
+      "fr": "Collections permanentes, premier etage, salle 17",
+      "es": "Colecciones permanentes, primer piso, sala 17",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Rodin joined the legs from his studies for Saint John the Baptist to a rough, damaged torso, creating a headless, armless figure defined entirely by its stride.",
+      "fr": "Rodin assembla les jambes de ses etudes pour Saint Jean-Baptiste a un torse abime, creant une figure sans tete ni bras definie tout entiere par sa marche.",
+      "es": "Rodin unio las piernas de sus estudios para San Juan Bautista a un torso danado, creando una figura sin cabeza ni brazos definida por su zancada.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The smooth modeling of the legs deliberately contrasts with the battered torso, echoing the fragmentary antiques Rodin collected; this cast was made by Alexis Rudier in 1913.",
+      "fr": "Le modele lisse des jambes contraste volontairement avec le torse meurtri, en echo aux antiques fragmentaires que Rodin collectionnait; cette fonte fut realisee par Alexis Rudier en 1913.",
+      "es": "El modelado liso de las piernas contrasta deliberadamente con el torso danado, en eco de las antiguedades fragmentarias que Rodin coleccionaba; esta fundicion fue realizada por Alexis Rudier en 1913.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "fragment",
+      "movement"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-homme-qui-marche",
+        "sourceID": "S35",
+        "label": "S35",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lhomme-qui-marche",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-studio-process",
+      "topic-antiques-collection"
+    ],
+    "placeholderSymbol": "figure.walk"
+  },
+  {
+    "id": "work-ugolin",
+    "title": {
+      "en": "Ugolino and His Children",
+      "fr": "Ugolin et ses enfants",
+      "es": "Ugolino y sus hijos",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1881-1882",
+    "material": {
+      "en": "Bronze (monumental group); the museum record documents the plaster model",
+      "fr": "Bronze (groupe monumental); la notice du musee documente le modele en platre",
+      "es": "Bronce (grupo monumental); la ficha del museo documenta el modelo en yeso",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01427",
+    "locationStatus": {
+      "en": "Sculpture garden",
+      "fr": "Jardin de sculptures",
+      "es": "Jardin de esculturas",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Drawn from Dante's Inferno, the starving Count Ugolino crawls over the bodies of his dying children; the monumental bronze group stands at the center of the garden's ornamental pool.",
+      "fr": "Tire de l'Enfer de Dante, le comte Ugolin affame rampe sur les corps de ses enfants mourants; le groupe monumental en bronze occupe le centre du bassin du jardin.",
+      "es": "Tomado del Infierno de Dante, el conde Ugolino hambriento se arrastra sobre los cuerpos de sus hijos moribundos; el grupo monumental en bronce ocupa el centro del estanque del jardin.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "Conceived for The Gates of Hell after Carpeaux's 1861 treatment, Rodin chose the moment before Ugolino surrenders to instinct; the inventory number is that of the plaster model documented on the official work page.",
+      "fr": "Concu pour La Porte de l'Enfer apres la version de Carpeaux en 1861, Rodin choisit le moment qui precede l'abandon d'Ugolin a l'instinct; le numero d'inventaire est celui du modele en platre documente sur la page officielle.",
+      "es": "Concebido para La Puerta del Infierno tras la version de Carpeaux de 1861, Rodin eligio el momento previo a la rendicion de Ugolino al instinto; el numero de inventario corresponde al modelo en yeso documentado en la pagina oficial.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "garden",
+      "dante"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-ugolin",
+        "sourceID": "S36",
+        "label": "S36",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/ugolin-et-ses-enfants",
+        "note": null
+      },
+      {
+        "id": "cite-work-ugolin-2",
+        "sourceID": "S06",
+        "label": "S06",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/musee-rodin/jardin-de-sculptures",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-garden",
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "person.3"
+  },
+  {
+    "id": "work-trois-ombres",
+    "title": {
+      "en": "The Three Shades",
+      "fr": "Les Trois Ombres",
+      "es": "Las Tres Sombras",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "Before 1886",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01191",
+    "locationStatus": {
+      "en": "Permanent collections, ground floor, room 5",
+      "fr": "Collections permanentes, rez-de-chaussee, salle 5",
+      "es": "Colecciones permanentes, planta baja, sala 5",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Three casts of a single Dante-inspired figure are assembled so they seem to turn around one point; the group crowns The Gates of Hell as the damned souls at the entrance to Hell.",
+      "fr": "Trois epreuves d'une meme figure inspiree de Dante sont assemblees de facon a sembler tourner autour d'un point; le groupe couronne La Porte de l'Enfer comme les ames damnees a l'entree de l'Enfer.",
+      "es": "Tres vaciados de una misma figura inspirada en Dante se ensamblan de modo que parecen girar en torno a un punto; el grupo corona La Puerta del Infierno como las almas condenadas a la entrada del Infierno.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The pained pose shows Michelangelo's influence, close to Rodin's Adam, with expressive distortion of the necks; this cast was made by Alexis Rudier in 1928.",
+      "fr": "La pose douloureuse montre l'influence de Michel-Ange, proche de l'Adam de Rodin, avec une distorsion expressive des cous; cette fonte fut realisee par Alexis Rudier en 1928.",
+      "es": "La pose doliente muestra la influencia de Miguel Angel, cercana al Adan de Rodin, con una distorsion expresiva de los cuellos; esta fundicion fue realizada por Alexis Rudier en 1928.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "dante",
+      "gates-of-hell"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-trois-ombres",
+        "sourceID": "S37",
+        "label": "S37",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/trois-ombres",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "person.3"
+  },
+  {
+    "id": "work-danaide",
+    "title": {
+      "en": "The Danaid",
+      "fr": "La Danaide",
+      "es": "La Danaide",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1889-1890",
+    "material": {
+      "en": "Marble",
+      "fr": "Marbre",
+      "es": "Marmol",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01155",
+    "locationStatus": {
+      "en": "Permanent collections, ground floor, room 7",
+      "fr": "Collections permanentes, rez-de-chaussee, salle 7",
+      "es": "Colecciones permanentes, planta baja, sala 7",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A Danaid of Greek myth, condemned to fill a bottomless vessel forever, collapses in exhaustion over her jar, her polished body emerging from the roughly hewn marble block.",
+      "fr": "Une Danaide de la mythologie grecque, condamnee a remplir sans fin un tonneau perce, s'effondre d'epuisement sur sa jarre, son corps poli emergeant du bloc de marbre a peine degrossi.",
+      "es": "Una Danaide del mito griego, condenada a llenar sin fin una vasija sin fondo, se derrumba agotada sobre su cantaro, su cuerpo pulido emergiendo del bloque de marmol apenas desbastado.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "Conceived for The Gates of Hell and removed from the final composition; her back was famously described as a great sob, and the French State bought the marble for the Musee du Luxembourg in 1890.",
+      "fr": "Concue pour La Porte de l'Enfer puis retiree de la composition finale; son dos fut celebre comme un grand sanglot, et l'Etat francais acheta le marbre pour le musee du Luxembourg en 1890.",
+      "es": "Concebida para La Puerta del Infierno y retirada de la composicion final; su espalda fue descrita como un gran sollozo, y el Estado frances compro el marmol para el museo de Luxemburgo en 1890.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "marble",
+      "myth",
+      "gates-of-hell"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-danaide",
+        "sourceID": "S38",
+        "label": "S38",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/danaide",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "figure"
+  },
+  {
+    "id": "work-cathedrale",
+    "title": {
+      "en": "The Cathedral",
+      "fr": "La Cathedrale",
+      "es": "La Catedral",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1908",
+    "material": {
+      "en": "Stone",
+      "fr": "Pierre",
+      "es": "Piedra",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01001",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 10",
+      "fr": "Collections permanentes, premier etage, salle 10",
+      "es": "Colecciones permanentes, primer piso, sala 10",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Two right hands from two different figures rise together without touching; the interior space between them evokes Gothic architecture, and the tool marks are left visible.",
+      "fr": "Deux mains droites issues de deux figures differentes s'elevent ensemble sans se toucher; l'espace interieur evoque l'architecture gothique et les traces d'outils restent visibles.",
+      "es": "Dos manos derechas de dos figuras distintas se elevan juntas sin tocarse; el espacio interior evoca la arquitectura gotica y las marcas de las herramientas quedan visibles.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "First titled The Ark of the Covenant, the work exemplifies Rodin's late practice of granting body fragments an autonomous life, parallel to his collection of ancient fragments.",
+      "fr": "D'abord intitulee L'Arche d'alliance, l'oeuvre illustre la pratique tardive de Rodin donnant aux fragments du corps une vie autonome, en parallele de sa collection de fragments antiques.",
+      "es": "Titulada primero El Arca de la Alianza, la obra ilustra la practica tardia de Rodin de dar a los fragmentos del cuerpo una vida autonoma, en paralelo a su coleccion de fragmentos antiguos.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "stone",
+      "hands",
+      "fragment"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-cathedrale",
+        "sourceID": "S39",
+        "label": "S39",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/cathedrale",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-studio-process"
+    ],
+    "placeholderSymbol": "hands.clap"
+  },
+  {
+    "id": "work-iris",
+    "title": {
+      "en": "Iris, Messenger of the Gods",
+      "fr": "Iris, messagere des Dieux",
+      "es": "Iris, mensajera de los dioses",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "Circa 1895",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01068",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 15",
+      "fr": "Collections permanentes, premier etage, salle 15",
+      "es": "Colecciones permanentes, primer piso, sala 15",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A headless, radically splayed female figure seized in full movement, first conceived for The Gates of Hell and reworked through the Victor Hugo monument projects before becoming an independent work.",
+      "fr": "Une figure feminine sans tete, radicalement ecartee et saisie en plein mouvement, d'abord concue pour La Porte de l'Enfer puis retravaillee a travers les projets de monument a Victor Hugo avant de devenir une oeuvre independante.",
+      "es": "Una figura femenina sin cabeza, radicalmente abierta y captada en pleno movimiento, concebida primero para La Puerta del Infierno y reelaborada en los proyectos del monumento a Victor Hugo antes de convertirse en obra independiente.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The museum's presentation evokes both can-can movement and gymnastic athleticism; this cast was made by Alexis Rudier before 1916, and the work remains one of Rodin's most audacious.",
+      "fr": "La presentation du musee evoque a la fois le mouvement du cancan et l'athletisme gymnique; cette fonte fut realisee par Alexis Rudier avant 1916, et l'oeuvre reste l'une des plus audacieuses de Rodin.",
+      "es": "La presentacion del museo evoca a la vez el movimiento del cancan y el atletismo gimnastico; esta fundicion fue realizada por Alexis Rudier antes de 1916, y la obra sigue siendo una de las mas audaces de Rodin.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "movement",
+      "body"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-iris",
+        "sourceID": "S40",
+        "label": "S40",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/iris-messagere-dieux",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "figure.dance"
+  },
+  {
+    "id": "work-belle-heaulmiere",
+    "title": {
+      "en": "She Who Was the Helmet Maker's Once-Beautiful Wife",
+      "fr": "Celle qui fut la belle Heaulmiere",
+      "es": "La que fue la bella Heaulmiere",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1885-1887",
+    "material": {
+      "en": "Bronze, sand cast",
+      "fr": "Bronze, fonte au sable",
+      "es": "Bronce, fundicion en arena",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01148",
+    "locationStatus": {
+      "en": "Permanent collections, ground floor, room 7",
+      "fr": "Collections permanentes, rez-de-chaussee, salle 7",
+      "es": "Colecciones permanentes, planta baja, sala 7",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Inspired by Francois Villon's poem, an old woman contemplates her withered body without complacency, one of Rodin's most unflinching studies of age born of the work on The Gates of Hell.",
+      "fr": "Inspiree du poeme de Francois Villon, une vieille femme contemple son corps fletri sans complaisance, l'une des etudes de la vieillesse les plus franches de Rodin, nee du travail sur La Porte de l'Enfer.",
+      "es": "Inspirada en el poema de Francois Villon, una anciana contempla su cuerpo marchito sin complacencia, uno de los estudios de la vejez mas descarnados de Rodin, nacido del trabajo en La Puerta del Infierno.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The French State acquired this sand cast in 1891 for the Musee du Luxembourg; the museum presents the figure as a counterpart to Jules Desbois's La Misere, and it dialogues with Camille Claudel's Clotho.",
+      "fr": "L'Etat francais acquit cette fonte au sable en 1891 pour le musee du Luxembourg; le musee presente la figure comme un pendant de La Misere de Jules Desbois, et elle dialogue avec la Clotho de Camille Claudel.",
+      "es": "El Estado frances adquirio esta fundicion en arena en 1891 para el museo de Luxemburgo; el museo presenta la figura como contraparte de La Misere de Jules Desbois, y dialoga con la Clotho de Camille Claudel.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "body",
+      "age"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-belle-heaulmiere",
+        "sourceID": "S41",
+        "label": "S41",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/celle-qui-fut-belle-heaulmiere",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "figure.stand"
+  },
+  {
+    "id": "work-petite-chatelaine",
+    "title": {
+      "en": "The Little Chatelaine",
+      "fr": "La Petite Chatelaine",
+      "es": "La Pequena Castellana",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "1895",
+    "material": {
+      "en": "Marble",
+      "fr": "Marbre",
+      "es": "Marmol",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01007",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 16",
+      "fr": "Collections permanentes, premier etage, salle 16",
+      "es": "Colecciones permanentes, primer piso, sala 16",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Claudel carved this bust of a six-year-old girl with an upturned, fervent gaze; the child, granddaughter of the owner of the Chateau de l'Islette, posed for about sixty-two hours.",
+      "fr": "Claudel sculpta ce buste d'une fillette de six ans au regard leve et fervent; l'enfant, petite-fille du proprietaire du chateau de l'Islette, posa pendant environ soixante-deux heures.",
+      "es": "Claudel esculpio este busto de una nina de seis anos con la mirada alzada y ferviente; la nina, nieta del propietario del castillo de l'Islette, poso durante unas sesenta y dos horas.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The first studies date to 1892 at the Chateau de l'Islette near Azay-le-Rideau, the retreat from which Claudel wrote the letter to Rodin held in this collection; Claudel carved four marble versions varying the hair.",
+      "fr": "Les premieres etudes datent de 1892 au chateau de l'Islette pres d'Azay-le-Rideau, la retraite d'ou Claudel ecrivit la lettre a Rodin conservee dans cette collection; Claudel realisa quatre versions en marbre variant la chevelure.",
+      "es": "Los primeros estudios datan de 1892 en el castillo de l'Islette cerca de Azay-le-Rideau, el refugio desde el que Claudel escribio la carta a Rodin conservada en esta coleccion; Claudel tallo cuatro versiones en marmol variando el cabello.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "marble",
+      "portrait"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-petite-chatelaine",
+        "sourceID": "S42",
+        "label": "S42",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/petite-chatelaine",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel"
+    ],
+    "placeholderSymbol": "person.crop.rectangle"
+  },
+  {
+    "id": "work-age-mur",
+    "title": {
+      "en": "The Age of Maturity",
+      "fr": "L'Age mur",
+      "es": "La Edad madura",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "1894-1899",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01380",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 16",
+      "fr": "Collections permanentes, premier etage, salle 16",
+      "es": "Colecciones permanentes, primer piso, sala 16",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "A man is torn from the imploring figure of Youth and drawn away by Age; the three-figure allegory of destiny is widely read as autobiographical of Claudel's break with Rodin.",
+      "fr": "Un homme est arrache a la figure implorante de la Jeunesse et entraine par l'Age; l'allegorie du destin a trois figures est largement lue comme autobiographique de la rupture de Claudel avec Rodin.",
+      "es": "Un hombre es arrancado de la figura implorante de la Juventud y llevado por la Edad; la alegoria del destino de tres figuras se lee ampliamente como autobiografia de la ruptura de Claudel con Rodin.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "Conceived after an 1895 State commission that was never delivered as planned, and cast in bronze in 1902 and 1913; the Musee d'Orsay also holds a bronze cast of this composition.",
+      "fr": "Concue apres une commande de l'Etat en 1895 jamais livree comme prevu, et fondue en bronze en 1902 et 1913; le musee d'Orsay conserve egalement une epreuve en bronze de cette composition.",
+      "es": "Concebida tras un encargo del Estado en 1895 nunca entregado segun lo previsto, y fundida en bronce en 1902 y 1913; el museo de Orsay conserva tambien un vaciado en bronce de esta composicion.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "bronze",
+      "allegory"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-age-mur",
+        "sourceID": "S43",
+        "label": "S43",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lage-mur",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel"
+    ],
+    "placeholderSymbol": "person.3"
+  },
+  {
+    "id": "work-vertumne-et-pomone",
+    "title": {
+      "en": "Vertumnus and Pomona",
+      "fr": "Vertumne et Pomone",
+      "es": "Vertumno y Pomona",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "1905",
+    "material": {
+      "en": "White marble on red marble base",
+      "fr": "Marbre blanc sur socle de marbre rouge",
+      "es": "Marmol blanco sobre base de marmol rojo",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01293",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 16",
+      "fr": "Collections permanentes, premier etage, salle 16",
+      "es": "Colecciones permanentes, primer piso, sala 16",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "An embracing couple first modeled around 1886 as Sakountala, after Hindu theatre, and re-titled through Greek myth for this 1905 marble carved with the support of the Comtesse de Maigret.",
+      "fr": "Un couple enlace d'abord modele vers 1886 sous le titre Sakountala, d'apres le theatre hindou, puis rebaptise par le mythe grec pour ce marbre de 1905 sculpte avec le soutien de la comtesse de Maigret.",
+      "es": "Una pareja abrazada modelada hacia 1886 como Sakountala, segun el teatro hindu, y retitulada por el mito griego para este marmol de 1905 tallado con el apoyo de la condesa de Maigret.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "A bronze cast by Eugene Blot was shown at the 1905 Salon d'Automne under the title L'Abandon; the successive titles and materials trace Claudel's evolving reading of her own composition.",
+      "fr": "Une epreuve en bronze d'Eugene Blot fut presentee au Salon d'Automne de 1905 sous le titre L'Abandon; les titres et materiaux successifs tracent la lecture changeante que Claudel fit de sa propre composition.",
+      "es": "Un vaciado en bronce de Eugene Blot se mostro en el Salon de Otono de 1905 con el titulo L'Abandon; los titulos y materiales sucesivos trazan la lectura cambiante que Claudel hizo de su propia composicion.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "marble",
+      "myth",
+      "couple"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-vertumne-et-pomone",
+        "sourceID": "S44",
+        "label": "S44",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/vertumne-et-pomone",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel"
+    ],
+    "placeholderSymbol": "heart"
+  },
+  {
+    "id": "work-vague",
+    "title": {
+      "en": "The Wave, or The Bathers",
+      "fr": "La Vague ou les Baigneuses",
+      "es": "La Ola o las Banistas",
+      "reviewNeeded": false
+    },
+    "artist": "Camille Claudel",
+    "dateText": "1897-1903",
+    "material": {
+      "en": "Onyx marble and bronze",
+      "fr": "Marbre-onyx et bronze",
+      "es": "Marmol onix y bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.06659",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 16",
+      "fr": "Collections permanentes, premier etage, salle 16",
+      "es": "Colecciones permanentes, primer piso, sala 16",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Three small bronze bathers crouch beneath a towering wave of green onyx marble, a composition openly indebted to Hokusai's Great Wave and to japonisme.",
+      "fr": "Trois petites baigneuses en bronze se blottissent sous une haute vague de marbre-onyx vert, une composition ouvertement redevable a la Grande Vague de Hokusai et au japonisme.",
+      "es": "Tres pequenas banistas en bronce se agazapan bajo una alta ola de marmol onix verde, una composicion abiertamente deudora de la Gran Ola de Hokusai y del japonismo.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "Claudel carved the semi-precious stone largely by her own hand, exploiting its natural polychromy; the work pairs with Les Causeuses in material and japonisme.",
+      "fr": "Claudel tailla elle-meme en grande partie la pierre semi-precieuse, exploitant sa polychromie naturelle; l'oeuvre fait pendant aux Causeuses par le materiau et le japonisme.",
+      "es": "Claudel tallo en gran parte con su propia mano la piedra semipreciosa, explotando su policromia natural; la obra forma pareja con Les Causeuses por el material y el japonismo.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "claudel",
+      "onyx",
+      "japonisme"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-vague",
+        "sourceID": "S45",
+        "label": "S45",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/vague-ou-baigneuses",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-camille-claudel"
+    ],
+    "placeholderSymbol": "water.waves"
+  },
+  {
+    "id": "work-pere-tanguy",
+    "title": {
+      "en": "Portrait of Pere Tanguy",
+      "fr": "Le Pere Tanguy",
+      "es": "El Pere Tanguy",
+      "reviewNeeded": false
+    },
+    "artist": "Vincent van Gogh",
+    "dateText": "1887",
+    "material": {
+      "en": "Oil on canvas",
+      "fr": "Huile sur toile",
+      "es": "Oleo sobre lienzo",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "P.07302",
+    "locationStatus": {
+      "en": "Permanent collections, first floor, room 12",
+      "fr": "Collections permanentes, premier etage, salle 12",
+      "es": "Colecciones permanentes, primer piso, sala 12",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "One of three portraits Van Gogh painted of Julien Tanguy, the Montmartre color merchant, seated frontally against a wall of Japanese woodblock prints in saturated complementary colors.",
+      "fr": "L'un des trois portraits que Van Gogh peignit de Julien Tanguy, le marchand de couleurs de Montmartre, assis de face devant un mur d'estampes japonaises, en couleurs complementaires saturees.",
+      "es": "Uno de los tres retratos que Van Gogh pinto de Julien Tanguy, el comerciante de colores de Montmartre, sentado de frente ante un muro de estampas japonesas, en colores complementarios saturados.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "Rodin owned this canvas, which is why a Van Gogh hangs in the Hotel Biron today; it anchors the presentation of Rodin as a collector of works by fellow artists.",
+      "fr": "Rodin possedait cette toile, raison pour laquelle un Van Gogh est aujourd'hui accroche a l'hotel Biron; elle ancre la presentation de Rodin comme collectionneur d'oeuvres d'autres artistes.",
+      "es": "Rodin poseia este lienzo, razon por la cual un Van Gogh cuelga hoy en el hotel Biron; ancla la presentacion de Rodin como coleccionista de obras de otros artistas.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "van-gogh",
+      "painting",
+      "collection"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-pere-tanguy",
+        "sourceID": "S46",
+        "label": "S46",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/pere-tanguy",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-antiques-collection"
+    ],
+    "placeholderSymbol": "paintpalette"
+  },
+  {
+    "id": "work-adam",
+    "title": {
+      "en": "Adam",
+      "fr": "Adam",
+      "es": "Adan",
+      "reviewNeeded": false
+    },
+    "artist": "Auguste Rodin",
+    "dateText": "1880-1881",
+    "material": {
+      "en": "Bronze",
+      "fr": "Bronze",
+      "es": "Bronce",
+      "reviewNeeded": false
+    },
+    "inventoryNumber": "S.01303",
+    "locationStatus": {
+      "en": "Sculpture garden",
+      "fr": "Jardin de sculptures",
+      "es": "Jardin de esculturas",
+      "reviewNeeded": false
+    },
+    "summary": {
+      "en": "Commissioned by the French fine-arts administration in 1881, this monumental figure answers Michelangelo's Sistine Adam but gestures down toward the earth, stressing man's terrestrial condition.",
+      "fr": "Commandee par l'administration des beaux-arts en 1881, cette figure monumentale repond a l'Adam de la Sixtine de Michel-Ange mais designe la terre, soulignant la condition terrestre de l'homme.",
+      "es": "Encargada por la administracion de bellas artes en 1881, esta figura monumental responde al Adan de la Sixtina de Miguel Angel pero senala hacia la tierra, subrayando la condicion terrestre del hombre.",
+      "reviewNeeded": false
+    },
+    "researchNote": {
+      "en": "The powerful musculature contrasts with a pose of constraint and suffering; the figure is closely related to The Three Shades of The Gates of Hell.",
+      "fr": "La musculature puissante contraste avec une pose de contrainte et de souffrance; la figure est etroitement liee aux Trois Ombres de La Porte de l'Enfer.",
+      "es": "La poderosa musculatura contrasta con una pose de constriccion y sufrimiento; la figura esta estrechamente ligada a Las Tres Sombras de La Puerta del Infierno.",
+      "reviewNeeded": false
+    },
+    "confidence": "verified",
+    "tags": [
+      "rodin",
+      "bronze",
+      "garden",
+      "michelangelo"
+    ],
+    "citations": [
+      {
+        "id": "cite-work-adam",
+        "sourceID": "S47",
+        "label": "S47",
+        "page": null,
+        "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/adam",
+        "note": null
+      }
+    ],
+    "relatedTopicIDs": [
+      "topic-garden",
+      "topic-gates-of-hell"
+    ],
+    "placeholderSymbol": "figure.stand"
   }
 ]

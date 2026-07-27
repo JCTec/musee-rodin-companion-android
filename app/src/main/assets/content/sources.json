@@ -938,5 +938,265 @@
       "es": "Catalogo historico de Internet Archive; usar solo como contexto historico.",
       "reviewNeeded": true
     }
+  },
+  {
+    "id": "S35",
+    "kind": "web",
+    "title": {
+      "en": "The Walking Man",
+      "fr": "L'Homme qui marche",
+      "es": "El Hombre que camina",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lhomme-qui-marche",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for The Walking Man.",
+      "fr": "Page officielle de l'oeuvre L'Homme qui marche.",
+      "es": "Pagina oficial de la obra El Hombre que camina.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S36",
+    "kind": "web",
+    "title": {
+      "en": "Ugolino and His Children",
+      "fr": "Ugolin et ses enfants",
+      "es": "Ugolino y sus hijos",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/ugolin-et-ses-enfants",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for Ugolino and His Children.",
+      "fr": "Page officielle de l'oeuvre Ugolin et ses enfants.",
+      "es": "Pagina oficial de la obra Ugolino y sus hijos.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S37",
+    "kind": "web",
+    "title": {
+      "en": "The Three Shades",
+      "fr": "Les Trois Ombres",
+      "es": "Las Tres Sombras",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/trois-ombres",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for The Three Shades.",
+      "fr": "Page officielle de l'oeuvre Les Trois Ombres.",
+      "es": "Pagina oficial de la obra Las Tres Sombras.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S38",
+    "kind": "web",
+    "title": {
+      "en": "The Danaid",
+      "fr": "La Danaide",
+      "es": "La Danaide",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/danaide",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for The Danaid.",
+      "fr": "Page officielle de l'oeuvre La Danaide.",
+      "es": "Pagina oficial de la obra La Danaide.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S39",
+    "kind": "web",
+    "title": {
+      "en": "The Cathedral",
+      "fr": "La Cathedrale",
+      "es": "La Catedral",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/cathedrale",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for The Cathedral.",
+      "fr": "Page officielle de l'oeuvre La Cathedrale.",
+      "es": "Pagina oficial de la obra La Catedral.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S40",
+    "kind": "web",
+    "title": {
+      "en": "Iris, Messenger of the Gods",
+      "fr": "Iris, messagere des Dieux",
+      "es": "Iris, mensajera de los dioses",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/iris-messagere-dieux",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for Iris, Messenger of the Gods.",
+      "fr": "Page officielle de l'oeuvre Iris, messagere des Dieux.",
+      "es": "Pagina oficial de la obra Iris, mensajera de los dioses.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S41",
+    "kind": "web",
+    "title": {
+      "en": "She Who Was the Helmet Maker's Once-Beautiful Wife",
+      "fr": "Celle qui fut la belle Heaulmiere",
+      "es": "La que fue la bella Heaulmiere",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/celle-qui-fut-belle-heaulmiere",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for She Who Was the Helmet Maker's Once-Beautiful Wife.",
+      "fr": "Page officielle de l'oeuvre Celle qui fut la belle Heaulmiere.",
+      "es": "Pagina oficial de la obra La que fue la bella Heaulmiere.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S42",
+    "kind": "web",
+    "title": {
+      "en": "The Little Chatelaine",
+      "fr": "La Petite Chatelaine",
+      "es": "La Pequena Castellana",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/petite-chatelaine",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for Camille Claudel's The Little Chatelaine.",
+      "fr": "Page officielle de l'oeuvre La Petite Chatelaine de Camille Claudel.",
+      "es": "Pagina oficial de la obra La Pequena Castellana de Camille Claudel.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S43",
+    "kind": "web",
+    "title": {
+      "en": "The Age of Maturity",
+      "fr": "L'Age mur",
+      "es": "La Edad madura",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/lage-mur",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for Camille Claudel's The Age of Maturity.",
+      "fr": "Page officielle de l'oeuvre L'Age mur de Camille Claudel.",
+      "es": "Pagina oficial de la obra La Edad madura de Camille Claudel.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S44",
+    "kind": "web",
+    "title": {
+      "en": "Vertumnus and Pomona",
+      "fr": "Vertumne et Pomone",
+      "es": "Vertumno y Pomona",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/vertumne-et-pomone",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for Camille Claudel's Vertumnus and Pomona.",
+      "fr": "Page officielle de l'oeuvre Vertumne et Pomone de Camille Claudel.",
+      "es": "Pagina oficial de la obra Vertumno y Pomona de Camille Claudel.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S45",
+    "kind": "web",
+    "title": {
+      "en": "The Wave, or The Bathers",
+      "fr": "La Vague ou les Baigneuses",
+      "es": "La Ola o las Banistas",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/vague-ou-baigneuses",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for Camille Claudel's The Wave.",
+      "fr": "Page officielle de l'oeuvre La Vague de Camille Claudel.",
+      "es": "Pagina oficial de la obra La Ola de Camille Claudel.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S46",
+    "kind": "web",
+    "title": {
+      "en": "Portrait of Pere Tanguy",
+      "fr": "Le Pere Tanguy",
+      "es": "El Pere Tanguy",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/pere-tanguy",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for Van Gogh's Portrait of Pere Tanguy, from Rodin's personal collection.",
+      "fr": "Page officielle du Pere Tanguy de Van Gogh, collection personnelle de Rodin.",
+      "es": "Pagina oficial del Pere Tanguy de Van Gogh, coleccion personal de Rodin.",
+      "reviewNeeded": false
+    }
+  },
+  {
+    "id": "S47",
+    "kind": "web",
+    "title": {
+      "en": "Adam",
+      "fr": "Adam",
+      "es": "Adan",
+      "reviewNeeded": false
+    },
+    "publisher": "Musee Rodin",
+    "url": "https://www.musee-rodin.fr/musee/collections/oeuvres/adam",
+    "accessDate": "2026-07-26",
+    "localFilename": null,
+    "notes": {
+      "en": "Official work page for Adam.",
+      "fr": "Page officielle de l'oeuvre Adam.",
+      "es": "Pagina oficial de la obra Adan.",
+      "reviewNeeded": false
+    }
   }
 ]
